@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://almeasqviolet.github.io/Violet-Log/"
 languageCode = 'en'
 title = "Violet's Log"
 theme = 'hugo-theme-reimu'
