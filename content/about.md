@@ -1,9 +1,26 @@
 ---
-title: 关于
-description: 关于
-
+title: 关于我
+description: AlmeasqViolet的日志
 date: 2022-06-09T20:12:52+08:00
-lastmod: 2022-06-09T20:12:52+08:00
+lastmod: 2026-09-08T20:12:52+08:00
+comments: false
 ---
 
-A Hakurei Reimu style Hugo theme. Migrated from [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu).
+欢迎你的访问！这里是 Violet 的杂谈日志。
+
+我是 "AlmeasqViolet"，称我 "Violet" 就可以了，当然如果你喜欢其他称呼也当然可以，只是以前我经常被这样称呼。
+
+**爱好——ACGN+软硬件**
+
+> **作品**：希望观看各种各样的作品，想要了解不同立场的人的想法，除此之外很喜欢百合和电波系作品。
+
+> **游戏**：类银河战士恶魔城、横版、格斗、弹幕射击、音游、动漫风格、可爱、沙盒、百合
+
+> **软件**：Linux、Blender、Mpv（十分业余的兴趣）
+
+> **硬件**：AMD、INTEL、NVIDIA、DIY、降压超频、科技新闻（AIN三家都用过所以）
+
+## 关于这个网站
+
+这个网站是最近刚刚开设的，现有的文章大多是我以前的记录。
+之后打算写一些日常感想，如果希望和我交谈最好请通过邮件谢谢。

@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en'
-title = 'My New Hugo Site'
+title = "Violet's Log"
 theme = 'hugo-theme-reimu'
 
 defaultContentLanguage = 'en'

@@ -14,9 +14,9 @@ menu:
   - name: about
     url: "about"
     icon:
-  - name: friend
-    url: "friend"
-    icon:
+  #- name: friend
+   # url: "friend"
+    #icon:
 
 # friend links
 friends:
@@ -30,13 +30,13 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
-email: xxx@example.com
-description: "少女祈祷中..."
-# subtitle: "少女祈祷中..."
+author: AlmeasqViolet
+email: almeasqviolet@outlook.com
+description: "请通过邮件和我交流"
+#subtitle: "少女祈祷中..."
 subtitle:
   typing:
-    enable: false
+    enable: true
     strings:
       # - Sentence 1
       # - Sentence 2
@@ -49,7 +49,7 @@ subtitle:
     loop: true                  # 是否循环播放
     shuffle: true              # 是否随机输出句子
     showCursor: true            # 是否显示闪烁的字符
-    cursorChar: "|"             # 字符
+    cursorChar: "人には届けたい想いがあるのです。届かなくてもいい手紙なんてないのですよ。"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
   text: "少女祈祷中..."        # 当 typing.enable = false 时使用
 
@@ -59,7 +59,7 @@ banner: "images/banner.webp"
 
 # If you want to use the srcset attribute, please enable it
 banner_srcset:
-  enable: false
+  enable: true
   srcset:
     - src: "images/banner-600w.webp"
       media: "(max-width: 479px)"
@@ -124,7 +124,7 @@ sidebar:
     show_common: true # whether to show common sidebar, ignored on mobile devices
 
 social:
-  # email: mailto:xxx@gmail.com
+  email: almeasqviolet@outlook.com
   # github: https://github.com/yourname
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
@@ -743,7 +743,7 @@ material_theme:
   # more information: https://github.com/2061360308/material-theme
   # notice: when you enable this feature, all the covers will be automatically added "crossorigin" attribute to support the dynamic color scheme
   # so make sure your custom covers will not be blocked by the browser's CORS policy
-  enable: false # enable material_theme to generate dynamic color schemes based on the banner image
+  enable: true # enable material_theme to generate dynamic color schemes based on the banner image
 
 internal_theme:
   light:
