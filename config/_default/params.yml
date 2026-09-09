@@ -7,13 +7,14 @@
 menu:
   - name: home
     url: ""
-    icon: # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
+    icon:
+    # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
   - name: archives
     url: "archives"
-    icon:
+    icon: 
   - name: about
     url: "about"
-    icon:
+    icon: 
   #- name: friend
    # url: "friend"
     #icon:
@@ -32,16 +33,15 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: AlmeasqViolet
 email: almeasqviolet@outlook.com
-description: "请通过邮件和我交流"
+description: "使用邮件和我交流"
 #subtitle: "少女祈祷中..."
 subtitle:
   typing:
     enable: true
     strings:
-      # - Sentence 1
-      # - Sentence 2
-      # - Sentence 3
-      # - Sentence 4
+      - "人には届けたい想いがあるのです。"
+      - "届かなくてもいい手紙なんてないのですよ。"
+    cursorChar: "|"   # 改为单个字符
     typeSpeed: 100              # 打字速度（毫秒/字符） 
     backSpeed: 50               # 删除速度（毫秒/字符）
     backDelay: 2000             # 打完一句话后，等待时间
@@ -49,9 +49,9 @@ subtitle:
     loop: true                  # 是否循环播放
     shuffle: true              # 是否随机输出句子
     showCursor: true            # 是否显示闪烁的字符
-    cursorChar: "人には届けたい想いがあるのです。届かなくてもいい手紙なんてないのですよ。"             # 字符
+    #cursorChar: "|"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
-  text: "少女祈祷中..."        # 当 typing.enable = false 时使用
+    text: "少女祈祷中..."        # 当 typing.enable = false 时使用
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -59,7 +59,7 @@ banner: "images/banner.webp"
 
 # If you want to use the srcset attribute, please enable it
 banner_srcset:
-  enable: true
+  enable: false
   srcset:
     - src: "images/banner-600w.webp"
       media: "(max-width: 479px)"
@@ -124,7 +124,7 @@ sidebar:
     show_common: true # whether to show common sidebar, ignored on mobile devices
 
 social:
-  email: almeasqviolet@outlook.com
+  email: mailto:almeasqviolet@outlook.com
   # github: https://github.com/yourname
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
@@ -217,7 +217,7 @@ triangle_badge:
 anchor_icon: # default use '#' icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1', you can also use false to hide anchor icon
 
 reimu_cursor:
-  enable: true
+  enable: false
   cursor:
     default: ../images/cursor/reimu-cursor-default.png  # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
     pointer: ../images/cursor/reimu-cursor-pointer.png
@@ -757,42 +757,42 @@ internal_theme:
     --red-6: '#FCF8FE'
     --color-red-6-shadow: 'rgba(155, 126, 200, 0.4)'
     --color-red-3-shadow: 'rgba(155, 126, 200, 0.2)'
-    --highlight-nav: "#f0eaf5"
-    --highlight-scrollbar: "#d4c8df"
-    --highlight-background: "#fcf9fe"
-    --highlight-selection: "#e8d8f0aa"
-    --highlight-foreground: "#2d2838"
-    --highlight-comment: "#9a8ca8"
-    --highlight-red: "#c95a7a"
-    --highlight-orange: "#d4946a"
-    --highlight-yellow: "#c4a84a"
-    --highlight-green: "#5a8a7a"
-    --highlight-aqua: "#5a8aa8"
-    --highlight-blue: "#6a6aa8"
-    --highlight-purple: "#8a6ab8"
-    --highlight-deletion: "#b85a7a"
+    --highlight-nav: "#f0f0f0"
+    --highlight-scrollbar: "#d0d0d0"
+    --highlight-background: "#f8f8f8"
+    --highlight-selection: "#c0c0c0aa"
+    --highlight-foreground: "#1e1e1e"
+    --highlight-comment: "#6a737d"
+    --highlight-red: "#d73a49"
+    --highlight-orange: "#e36209"
+    --highlight-yellow: "#d19a66"
+    --highlight-green: "#22863a"
+    --highlight-aqua: "#005cc5"
+    --highlight-blue: "#032f62"
+    --highlight-purple: "#6f42c1"
+    --highlight-deletion: "#b31d28"
     --highlight-deletion-bg: "#fceef3"
-    --highlight-addition: "#5a8a7a"
+    --highlight-addition: "#22863a"
     --highlight-addition-bg: "#eef8f4"
   dark:
     --red-4: 'rgba(180, 155, 210, 0.5)'
     --red-5: 'rgba(210, 185, 230, 0.15)'
     --red-5-5: 'rgba(220, 200, 240, 0.05)'
     --red-6: 'rgba(230, 210, 245, 0.2)'
-    --highlight-nav: "#1e1828"
-    --highlight-scrollbar: "#3a3250"
-    --highlight-background: "#16141e"
-    --highlight-selection: "#3a2a4aaa"
-    --highlight-foreground: "#d4cce0"
-    --highlight-comment: "#8a84a0"
-    --highlight-red: "#d48a9a"
-    --highlight-orange: "#d4a88a"
-    --highlight-yellow: "#d4c05a"
-    --highlight-green: "#8ab8a0"
-    --highlight-aqua: "#8ab8d4"
-    --highlight-blue: "#8a8ad4"
-    --highlight-purple: "#b08ad4"
-    --highlight-deletion: "#d48a9a"
+    --highlight-nav: "#2d2d2d"
+    --highlight-scrollbar: "#3d3d3d"
+    --highlight-background: "#1e1e1e"
+    --highlight-selection: "#404040aa"
+    --highlight-foreground: "#d4d4d4"
+    --highlight-comment: "#6a9955"
+    --highlight-red: "#f44747"
+    --highlight-orange: "#ce9178"
+    --highlight-yellow: "#d7ba7d"
+    --highlight-green: "#6a9955"
+    --highlight-aqua: "#4fc1ff"
+    --highlight-blue: "#569cd6"
+    --highlight-purple: "#c586c0"
+    --highlight-deletion: "#f44747"
     --highlight-deletion-bg: "#3a1a22"
-    --highlight-addition: "#8ab8a0"
+    --highlight-addition: "#6a9955"
     --highlight-addition-bg: "#1a2a22"
