@@ -1,0 +1,14 @@
+anime:
+  - id: 1
+    title: "NARUTO -ナルト-"
+    children:
+      - title: "NARUTO -ナルト-「720」 Fin"
+      - title: "劇場版 NARUTO -ナルト- 大活劇! 雪姫忍法帖だってばよ!!「1」 1"
+  - id: 2
+    title: "氷菓「22」 Fin"
+    children: []
+
+comic:
+  - id: 1
+    title: "ささやくように恋を唄う「8」 Fin"
+    children: []
