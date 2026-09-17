@@ -16,591 +16,591 @@ categories:
 <!--more-->
 
 ## Anime
-
 ```text
-1、NARUTO -ナルト-
-    -NARUTO -ナルト-「720」 Fin
-    -劇場版 NARUTO -ナルト- 大活劇! 雪姫忍法帖だってばよ!!「1」 1
-    -劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ「1」 1
-2、氷菓「22」 Fin
-3、転生したらスライムだった件
-    -転生したらスライムだった件「48/S3」 Fin
-    -転生したらスライムだった件 OAD「4」 Fin
-    -転スラ日記 転生したらスライムだった件「12」 Fin
-4、ヴァイオレット・エヴァーガーデン
-    -ヴァイオレット・エヴァーガーデン「13」 Finx4
-    -ヴァイオレット・エヴァーガーデン OVA「1」 Finx3
-    -ヴァイオレット・エヴァーガーデン 外伝 -永遠と自動手記人形-「1」 Finx3
-    -ヴァイオレット・エヴァーガーデン 劇場版「1」 Finx2
-5、世界最高の暗殺者、異世界貴族に転生する「12」 Fin
-6、探偵はもう、死んでいる「12」 Fin
-7、DARLING IN THE FRANXX「24」 Fin
-8、ブレンド・S「12」 Fin
-9、UQ HOLDER！
-    -UQ HOLDER！「12」 Fin
-    -UQ HOLDER！ OAD「3」 Fin
-10、ネトゲの嫁は女の子じゃないと思った？「12」 Fin
-11、スライム倒して300年、知らないうちにレベルMAXになってました「12」 Fin
-12、妹さえいればいい
-    -妹さえいればいい「12」 Fin
-    -○○さえいればいい「8」 1
-13、真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました「13」 Fin
-14、战国千年 动态漫「12」 Fin
-15、「青春ブタ野郎」シリーズ「13」 Fin
-16、迷宮ブラックカンパニー「12」 Fin
-17、死神坊ちゃんと黒メイド「12」 Fin
-18、ピーチボーイリバーサイド「12」 Fin
-19、甘城ブリリアントパーク
-    -甘城ブリリアントパーク「12」 Fin
-    -甘城ブリリアントパーク OVA「1」 Fin
-    -甘城ブリリアントパーク SP「7」 1
-20、やはり俺の青春ラブコメはまちがっている
-    -やはり俺の青春ラブコメはまちがっている「38/S3」 Fin
-    -やはり俺の青春ラブコメはまちがっている OVA「2」 Fin
-21、Angels of Death「16」 Fin
-22、全职高手
-    -全职高手「24」 Fin
-    -全职高手 特别篇「3」 Fin
-    -全职高手之荣耀巅峰「1」 Fin
-23、时光代理人「11+」 Finx2
-24、デート・ア・ライブ
-    -デート・ア・ライブ「48+」 38/S02E04
-    -劇場版デート・ア・ライブ 万由里ジャッジメント「1」 Fin
-    -デート・ア・ライブ フラグメント デート・ア・バレット「2」 Fin
-25、ヨスガノソラ「12」 Finx2
-26、ようこそ実力至上主義の教室へ「13+」 13/1-2
-27、五等分の花嫁「24/S2」 Fin
-28、回復術士のやり直し ～即死魔法とスキルコピーの超越ヒール～「12」 Fin
-29、Tom and Jerry
-    -Tom and Jerry 1965「55」 Fin
-    -The New Tom & Jerry Show 1975「75」 1
-    -Tom and Jerry Kids Show「65」 1
-    -Tom and Jerry Tales Season 1「50」 1
-    -Tom and Jerry: The Movie「1」 1
-    -Tom and Jerry: The Magic Ring「1」 Fin
-    -Tom and Jerry Blast Off to Mars!「1」 Fin
-    -Tom And Jerry The Fast And The Furry「1」 Fin
-    -Tom and Jerry: Shiver Me Whiskers「1」 Fin
-    -Tom and Jerry: A Nutcracker Tale「1」 Fin
-    -Tom And Jerry Meet Sherlock Holmes「1」 Fin
-    -Tom and Jerry & The Wizard of Oz「1」 Fin
-    -Tom and Jerry's Giant Adventure「1」 Fin
-    -Tom and Jerry: The Lost Dragon「1」 1
-    -Tom and Jerry: Spy Quest「1」 1
-    -Tom & Jerry: Back to Oz「1」 1
-    -Tom and Jerry: Willy Wonka and the Chocolate Factory「1」 1
-    -Tom and Jerry 2021「1」 Fin
-    -Tom and Jerry in New York「7」 1
-30、この素晴らしい世界に祝福を！
-    -この素晴らしい世界に祝福を！「22/S2」 Fin
-    -この素晴らしい世界に祝福を！ OVA「2」 Fin
-    -この素晴らしい世界に祝福を！ 紅伝説「1」 Fin
-31、ワンパンマン
-    -ワンパンマン「24」 Fin
-    -ワンパンマン OVA「12」 Fin
-32、かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜
-    -かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜「37/S3」 26/S03E02
-    -かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 OVA「1」 Fin
-33、エロマンガ先生
-    -エロマンガ先生「12」 Fin
-    -エロマンガ先生 OVA「2」 1
-34、りゅうおうのおしごと「12」 Fin
-35、魔女の旅々「12」 Fin
-36、クロスアンジュ 天使と竜の輪舞(ロンド)「25」 Fin
-37、ゴブリンスレイヤー
-    -ゴブリンスレイヤー「13」 Fin
-    -ゴブリンスレイヤー -GOBLIN'S CROWN-「1」 Fin
-38、ひめゴト「13」 Fin
-39、Arcane「18」 Fin/1-9x2/10~18x1
-40、るろうに剣心 -明治剣客浪漫譚-
-    -るろうに剣心 -明治剣客浪漫譚-「94」 Fin
-    -るろうに剣心 最Fin章 The Beginning「4」 Fin
-    -るろうに剣心 -明治剣客浪漫譚- 星霜編「2」 1
-    -るろうに剣心 -明治剣客浪漫譚- 新京都編「2」 Fin
-    -るろうに剣心 -明治剣客浪漫譚- 新作「47/S2」 Finx1.5
-41、BLEACH
-    -BLEACH「392+」 Fin
-    -劇場版 BLEACH MEMORIES OF NOBODY「1」 Fin
-    -劇場版 BLEACH もう一つの氷輪丸「1」 Fin
-    -劇場版 BLEACH 君の名を呼ぶ「1」 Fin
-    -劇場版 BLEACH 地獄篇「1」 Fin
-42、とある魔術の禁書目録
-    -とある魔術の禁書目録
-        -とある魔術の禁書目録「74/S3」 31/S02E07
-        -とある魔術の禁書目録たん「4」 1
-        -とある魔術の禁書目録 SP「1」 1
-        -劇場版 とある魔術の禁書目録 エンデュミオンの奇蹟「1」 1
-    -とある科学の超電磁砲「73/S3」 25/1-2
-    -とある科学の一方通行「12」 1
-43、王様ランキング「23」 10
-44、Fate
-    -Fate/Prototype
-        -Fate/Prototype OVA「1」 Fin
-    -Fate/Zero
-        -Fate/Zero「25/S2」 Finx4
-        -お願い ! アインツベルン相談室「7」 1
-    -Fate/Stay night
-        -Fate/Stay night 06「24/S2」 Fin
-        -Fate/Stay night [Unlimited Blade Works] 劇場版「1」 1
-        -Fate/Stay night [Unlimited Blade Works]「26/S2」 Finx3
-        -Fate/Stay night [Unlimited Blade Works] SP「1」 Fin
-        -劇場版 Fate/Stay night [Heaven's Feel]「3」 Finx2
-    -Fate/Extra Last Encore「13」 Fin
-    -Fate/Apocrypha「25」 Finx3
-    -ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-「23」 Fin
-    -Fate/Grand
-        -Fate/Grand Order -MOONLIGHT-「1」 Fin
-        -Fate/Grand Order -絶対魔獣戦線バビロニア-「22」 Fin
-        -劇場版 Fate/Grand Order -神聖円卓領域キャメロット-「1」 Fin
-        -Fate/Grand Order 終局特異点 冠位時間神殿ソロモン「1」 Fin
-        -Fate/Grand Carnival「4」 2
-    -Fate/kaleid liner プリズマ☆イリヤ
-        -Fate/kaleid liner プリズマ☆イリヤ「42/S3」 Fin
-        -Fate/kaleid liner プリズマ☆イリヤ OVA「1」 Fin
-        -Fate/kaleid liner プリズマ☆イリヤ SP「?」 1
-        -Fate/kaleid liner プリズマ☆イリヤ Prisma☆Phantasm「1」 1
-        -劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い「1」 Finx2
-        -劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女「1」 Finx2
-    -カーニバル・ファンタズム
-        -カーニバル・ファンタズム「12」 Fin
-        -カーニバル・ファンタズム Special Season「1」 Fin
-        -カーニバル・ファンタズム EX Season「1」 Fin
-    -衛宮さんちの今日のごはん「13」 Fin
-45、中二病でも恋がしたい！
-    -中二病でも恋がしたい！「26/S2」 23/10-2
-    -小鳥遊六花・改 ～劇場版 中二病でも恋がしたい！～「1」 1
-    -映画 中二病でも恋がしたい！ -Take On Me-「1」 1
-46、ぼくたちのリメイク「12」 2
-47、天才王子の赤字国家再生術〜そうだ、売国しよう〜「12」 Fin
-48、プリンセスコネクト！Re:Dive「25/S2」 7/7-1
-49、ジョジョの奇妙な冒険
-    -ジョジョの奇妙な冒険「26」 Fin
-    -ジョジョの奇妙な冒険 戦闘潮流「26」 Fin
-    -ジョジョの奇妙な冒険 スターダストクルセイダース「48/S2」 Fin
-    -ジョジョの奇妙な冒険 ダイヤモンドは砕けない
-        -ジョジョの奇妙な冒険 ダイヤモンドは砕けない「39/S2」 Fin
-        -岸辺露伴は動かない「4」 1
-    -ジョジョの奇妙な冒険 黄金の風「39/S2」 Fin
-    -ジョジョの奇妙な冒険 ストーンオーシャン「38/S2」 Fin
-50、Re:ゼロから始める異世界生活
-    -Re:ゼロから始める異世界生活「50/S3」 Fin
-    -Re:ゼロから始める異世界生活 SP「25」 1
-    -Re:ゼロから始める異世界生活 Memory Snow「1」 Fin
-    -Re:ゼロから始める異世界生活 氷結の絆「1」 Fin
-51、少女前线
-    -少女前线「12」 2
-    -少女前线 人形小剧场「36」 1
-52、聖痕のクェイサー
-    -聖痕のクェイサー「36/S2」 2/S02E01
-    -聖痕のクェイサー OVA「1」 1
-53、碧蓝航线
-    -碧蓝航线「12」 Fin 1x2/2-12x1
-    -碧蓝航线 SP「?」 1
-    -碧蓝航线:微速前行!「12」 1
-54、小林さんちのメイドラゴン
-    -小林さんちのメイドラゴン「26/S2」 2/S01E02
-    -小林さんちのメイドラゴン OVA「1」 1
-55、ソードアート・オンライン
-    -ソードアート・オンライン「37/S2」 29/S02E04
-    -ソードアート・オンライン Extra Edition「1」 1
-    -劇場版 ソードアート・オンライン -オーディナル・スケール-「1」 Fin
-    -ソードアート・オンライン オルタナティブ ガンゲイル・オンライン「12」 1
-    -ソードアート・オンライン アリシゼーション「49/S2」 1/1-1
-    -劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア「1」 1
-56、狐妖小红娘「148」 89
-57、takt op.Destiny「12」 9
-58、ONE PIECE
-    -ONE PIECE「1023+」 612
-    -ONE PIECE 黄金島の冒険「1」 1
-    -ONE PIECE ねじまき島の冒険「1」 1
-    -ONE PIECE 珍獣島のチョッパー王国「1」 1
-    -ONE PIECE THE MOVIE デッドエンドの冒険「1」 1
-    -ONE PIECE 呪われた聖剣「1」 1
-    -ONE PIECE THE MOVIE オマツリ男爵と秘密の島「1」 1
-    -ONE PIECE THE MOVIE カラクリ城のメカ巨兵「1」 1
-    -ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち「1」 1
-    -ONE PIECE THE MOVIE エピソードオブチョッパー+ 冬に咲く、奇跡の桜「1」 1
-    -ONE PIECE FILM STRONG WORLD「1」 1
-    -ONE PIECE 3D 麦わらチェイス「1」 1
-    -ONE PIECE FILM Z「1」 1
-    -ONE PIECE FILM GOLD「1」 1
-    -ONE PIECE FILM RED「1」 1
-59、坂本ですが？「13」 Fin
-60、平穏世代の韋駄天達「11」 Fin
-61、戦×恋「12」 3
-62、花咲くいろは
-    -花咲くいろは「26」 Fin
-    -花咲くいろは Home Sweet Home「1」 Fin
-63、進撃の巨人
-    -進撃の巨人「94/S4」 Fin
-    -進撃の巨人 OAD「8」 1
-64、未来日記
-    -未来日記「26」 Fin
-    -未来日記 OVA「1」 Fin
-65、86―エイティシックス―「23」 Fin
-66、その着せ替え人形は恋をする「12」 Fin
-67、終わりのセラフ「24/S2」 Fin
-68、尸兄「41」 Fin
-69、クオリディア・コード「12」 3
-70、ロクでなし魔術講師と禁忌教典「12」 Fin
-71、ありふれた職業で世界最強
-    -ありふれた職業で世界最強「25/S2」 Fin
-    -ありふれた職業で世界最強 OVA「1」 Fin
-72、スカートの中はケダモノでした「12」 Finx2
-73、オオカミさんは食べられたい「3」 Fin
-74、Overlord
-    -Overlord「52/S4」 Finx2
-    -Overlord SP「39/S3」 14/S02E01
-    -Overlord OAD「1」 1
-    -Overlord 聖王国篇「1」 Fin
-75、one room「36」 Fin
-76、堀さんと宫村くん
-    -堀さんと宫村くん「13」 Fin
-    -堀さんと宫村くん OVA「6+」 1
-77、happy suger life「12」 Fin
-78、ストロベリー・パニック!「26」 Fin
-79、神無月の巫女「12」 Fin 1x2/2-12x1
-80、マリア様がみてる「?」 1
-81、Citrus「12」 Fin 1x2/2-12x1
-82、やがて君になる「13」 Finx2
-83、安達としまむら「12」 Finx2
-84、白い砂のアクアトープ「24」 1
-85、桜トリック「12」 Fin
-86、リズと青い鳥「1」 Finx2
-87、あさがおと加瀬さん「1」 Fin
-88、フラグタイム「1」 Fin
-89、立花館To Lieあんぐる「12」 Fin
-90、その花びらにくちづけを あなたと恋人つなぎ OVA「1」 Finx4
-91、捏造トラップ -NTR-「12」 Finx2
-92、BURN THE WITCH「3」 Fin
-93、SPY×FAMILY 間諜家家酒「12+」 Fin
-94、The Garfield Show
-    -The Garfield Show「131」 ?/?-?
-    -?「?」 ?/?-?
-95、リコリス・リコイル「13」 Fin
-96、ラブライブ!
-    -ラブライブ! スクールアイドルプロジェクト
-        -ラブライブ! スクールアイドルプロジェクト「26/S2」 Fin
-        -ラブライブ! スクールアイドルプロジェクト OVA「1」 Fin
-        -ラブライブ! スクールアイドルプロジェクト 劇場版「1」 Fin
-    -ラブライブ! サンシャイン!!
-        -ラブライブ! サンシャイン!!「26/S2」 Fin
-        -ラブライブ! サンシャイン!! OVA「1」 Fin
-        -幻日のヨハネ -SUNSHINE in the MIRROR-「13」 Fin
-    -ラブライブ! 虹ヶ咲学園スクールアイドル同好会
-        -ラブライブ! 虹ヶ咲学園スクールアイドル同好会「26/S2」 Finx2
-        -ラブライブ! 虹ヶ咲学園スクールアイドル同好会 OVA「1」 Fin
-        -にじよんあにめーしょん「12」 1
-    -ラブライブ! スーパースター!!「36/S3」 25/S01E02
-97、大鱼海棠「1」 Fin
-98、ハウルの動く城「1」 Finx2
-99、天空の城ラピュタ「1」 Finx2
-100、となりのトトロ「1」 Finx2
-101、千と千尋の神隠し「1」 Fin
-102、異世界おじさん「4+」 5
-103、BIRDIE WING -Golf Girls' Story-「4+」 1
-104、ゆるキャン△
-    -ゆるキャン△「25」 Fin
-    -ゆるキャン△ OVA「5」 1
-    -ゆるキャン△ 劇場版「1」 1
-105、ブッチギレ「6+」 3
-106、呪術廻戦
-    -呪術廻戦「24」 Fin
-    -呪術廻戦0 劇場版「1」 Fin
-107、candy boy「9」 8
-108、少女セクト「?」 1
-109、犬神さんと猫山さん「13」 Fin
-110、裏世界ピクニック「12」 Fin
-111、賭け狂い
-    -賭け狂い「24」 Fin
-    -賭け狂い 双「6」 Fin
-112、SHIROBAKO
-    -SHIROBAKO「24」 2
-    -SHIROBAKO 劇場版「?」 1
-113、STEINS;GATE
-    -STEINS;GATE「24」 Fin
-    -STEINS;GATE 横行跋扈のポリオマニア「1」 1
-    -劇場版 STEINS;GATE 負荷領域のデジャヴ「1」 1
-    -STEINS;GATE 聡明叡智のコグニティブ・コンピューティング「4」 1
-    -STEINS;GATE #23(β) 境界面上のミッシングリンク「1」 Fin
-    -STEINS;GATE0「24」 Fin
-114、Cyberpunk: Edgerunners「10」 Fin
-115、あの日見た花の名前を僕達はまだ知らない
-    -あの日見た花の名前を僕達はまだ知らない「11」 1
-    -あの日見た花の名前を僕達はまだ知らない 劇場版「1」 1
-116、ヴィンランド・サガ「48/S2」 Fin
-117、Overflow「8」 4
-118、此花奇譚「12」 Fin
-119、Ange Vierge「12」 1
-120、少女☆歌劇 レヴュースタァライト
-    -少女☆歌劇 レヴュースタァライト「12」 Finx2
-    -少女☆歌劇 レヴュースタァライト OVA「3」 1
-    -少女☆寸劇 オールスタァライト「26」 1
-    -劇場版 少女☆歌劇 レヴュースタァライト「1」 Finx3
-121、Dante's Inferno Animated「1」 Fin
-122、少女Fin末旅行
-    -少女Fin末旅行「12」 Fin
-    -少女Fin末旅行 SP「12」 Fin
-123、ヘルシング
-    -ヘルシング TV「12」 4
-    -ヘルシング OVA「10」 Finx2
-124、Fin末のワルキューレ「12」 Fin
-125、マギ
-    -マギ「50」 Fin
-    -マギ シンドバッドの冒険「13」 Fin
-126、街角魔族
-    -街角魔族「24」 13
-127、痛いのは嫌なので防御力に極振りしたいと思います「12」 3
-128、モブサイコ100
-    -モブサイコ100「37/S3」 Fin
-    -モブサイコ100 OVA「2」 1
-129、サマータイムレンダ「25」 Fin
-130、灰と幻想のグリムガル
-    -灰と幻想のグリムガル「12」 6
-    -灰と幻想のグリムガル OVA「1」 Fin
-131、パリピ孔明「12」 Fin
-132、グランベルム「13」 8
-133、銀魂
-    -銀魂「367」 Fin
-    -銀魂 OVA「2」 1
-134、京騒戯画「13」 5
-135、アキバ冥途戦争「12」 Fin
-136、鬼滅の刃「62+」 54
-137、押しの子「24」 Fin
-138、グランブルーファンタジー「28/S2」 Fin
-139、東方Project
-    -幻想万華鏡 ~The Memories Of Phantasm~「21」 1
-    -東方夢想夏郷「7」 1
-140、チェンソーマン「12」 Fin
-141、コードギアス
-    -コードギアス「50」 1
-    -コードギアス 亡国のアキト「5」 1
-    -コードギアス 漆黒の連夜「1」 1
-    -コードギアス 双貌のオズ「1」 1
-    -コードギアス 反逆のルルーシュ 劇場版「3」 Fin
-142、ナカノヒトゲノム【実況中】
-    -ナカノヒトゲノム【実況中】「12」 Fin
-    -ナカノヒトゲノム【実況中】 OVA「1」 Fin
-143、Castlevania「32」 Fin
-144、ゲーマーズ！「12」 1
-145、プリンセス・プリンシパル「?」 1
-146、ウマ娘 プリティーダービー「?」 1
-147、青のオーケストラ「?」 1
-148、ワールドダイスター「12」 4
-149、私の百合はお仕事です！「12」 Fin
-150、BanG Dream!
-    -BanG Dream!「39/S3」 26
-    -BanG Dream! OVA「1」 Fin
-    -BanG Dream! ガルパ☆ピコ「78」 1
-    -BanG Dream! Morfonication「2」 1
-    -バンドリ！ ガールズバンドパーティ！ 5th Anniversary「2」 1
-    -ぱすてるらいふ「6」 1
-    -BanG Dream! It's MyGO!!!!!「13」 Fin
-    -BanG Dream! Ave Mujica「?」 1
-151、NieR:Automata Ver1.1a「12」 1
-152、東京リベンジャーズ「50/S3」 Finx2
-153、D4DJ First Mix「13」 1
-154、アサルトリリィBOUQUET「12」 1
-155、刀使ノ巫女
-    -刀使ノ巫女「24」 Fin
-    -刀使ノ巫女 OVA「1」 1
-    -みにとじ「12」 1
-156、ハイスクール・フリート
-    -ハイスクール・フリート「12」 Fin
-    -ハイスクール・フリート OVA「2」 Fin
-    -ハイスクール・フリート 劇場版「1」 Fin
-157、女子かう生「12」 1
-158、八月のシンデレラナイン「?」 1
-159、ゾンビランドサガ ZOMBIE LAND SAGA「24」 Fin
-160、邪神ちゃんドロップキック「?」 1
-161、十二大戦「12」 Fin
-162、王様ゲームジ・アニメーション「12」 Finx2
-163、ぼっち・ざ・ろっく！「12」 Fin
-164、空の境界「8」 Fin
-165、伊藤潤二「コレクション」
-    -伊藤潤二「コレクション」「12」 Fin
-    -伊藤潤二「コレクション」 OVA「2」 Fin
-166、Dies irae「17」 Fin
-167、デビルマン「10」 Fin
-168、風が強く吹いている「23」 Fin
-169、DEATH NOTE「37」 Fin
-170、Blood C「?」 1
-171、となりの吸血鬼さん「12」 Fin
-172、天狼 Sirius the Jaeger「12」 Fin
-173、結城友奈は勇者である「37/S2」 Fin
-174、ウマ娘 プリティーダービー
-    -ウマ娘 プリティーダービー「28/S2」 1
-    -ウマ娘 プリティーダービー EXTRA R「4」 1
-175、転生王女と天才令嬢の魔法革命「12」 Fin
-176、魔法使いの嫁 OAD「6」 4
-177、ペルソナ 〜トリニティ・ソウル〜「26」 3
-178、魔法少女まどか☆マギカ
-    -魔法少女まどか☆マギカ「12」 Fin
-    -劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語「1」 Fin
-    -劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語「1」 Fin
-    -劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語「1」 Fin
-179、アイドルマスター
-    -アイドルマスター シンデレラガールズ U149「13」 Fin
-    -アイドルマスター シャイニーカラーズ「24」 1
-    -アイドルマスター シンデレラガールズ「26」 1
-    -アイドルマスター ミリオンライブ！「12」 1
-    -アイドルマスター XENOGLOSSIA「26」 1
-    -アイドルマスター「25」 1
-    -THE IDOLM@STER MOVIE 輝きの向こう側へ!「1」 1
-    -アイドルマスター SP「1」 1
-    -ぷちます！「138」 1
-    -ぷちます！ OVA「6」 1
-    -ぷちます！ OAD「?」 1
-180、東京喰種トーキョーグール
-    -東京喰種トーキョーグール「48/S3」 Fin
-    -東京喰種トーキョーグール OVA「2」 Fin
-181、鋼の錬金術師
-    -鋼の錬金術師「51」 Fin
-    -劇場版 鋼の錬金術師 シャンバラを征く者「1」 1
-    -鋼の錬金術師 FULLMETAL ALCHEMIST「64」 Fin
-    -鋼の錬金術師 嘆きの丘=の聖なる星「1」
-182、明日方舟「24/S2」 Fin
-183、陰の実力者になりたくて！「32/S2」 Fin
-184、WIXOSS
-    -selector infected WIXOSS「24」 1
-    -Lostorage incited WIXOSS「21」 1
-185、紅殻のパンドラ -GHOST URN-「12」 2
-186、武装少女マキャヴェリズム
-    -武装少女マキャヴェリズム「12」 4
-    -武装少女マキャヴェリズム OAD「1」 1
-187、葬送のフリーレン「28」 Fin
-188、王室教師ハイネ「12」 1
-189、犬屋敷「11」 Fin
-190、たくのみ。「12」 Fin
-191、COPPELION「13」 Fin
-192、ノラガミ「25」 5
-193、てさぐれ！部活もの「36/S3」 13
-194、魔法少女サイト「12」 Fin
-195、寄生獣「24」 Fin
-196、極主夫道「15」 Fin
-197、NieR:Automata Ver1.1a「12」 Fin
-198、ノブナガ・ザ・フール「24」 2
-199、BLAZBLUE ALTER MEMORY「12」 Fin
-200、G0!G0!575「1」 Fin
-201、艦隊これくしょん -艦これ-
-    -艦隊これくしょん -艦これ-「20」 Fin
-    -劇場版 艦隊これくしょん -艦これ-「1」 Fin
-202、pupa「12」 Fin
-203、ささやくように恋を唄う「12」 Fin
-204、緋弾のアリア「13」 1×2/3-9×1
-205、灼眼のシャナ
-    -灼眼のシャナ「72/S3」 61/S03E13
-    -灼眼のシャナ OVA「1」 Fin
-206、ダーウィンズゲーム「11」 Fin
-207、夜のクラゲは泳げない「12」 Fin
-208、終末トレインどこへいく？「12」 Fin
-209、お兄ちゃんはおしまい！「12」 Fin
-210、ライザのアトリエ「12」 Fin
-211、アンデッドガール・マーダーファルス「13」 Fin
-212、魔法少女にあこがれて「13」 Fin
-213、ひきこまり吸血姫の悶々「12」 Fin
-214、月とライカと吸血姫「12」 1
-215、BLOODY ESCAPE -地獄の逃走劇-「1」 1
-216、ブルーアーカイブ The Animation「12」 Fin
-217、メカクシティアクターズ「12」 Fin
-218、悪魔のリドル「13」 Fin
-219、BLOOD-C
-    -BLOOD-C「12」 Fin
-    -劇場版 BLOOD-C「1」 Fin
-220、serial experiments lain「13」 Fin
-221、ドキドキ！プリキュア「49」 13
-222、ニードレス「24」 1
-223、あずまんが大王「24」 1
-224、私がモテないのはどう考えてもお前らが悪い！
-    -私がモテないのはどう考えてもお前らが悪い！「11」 8
-    -私がモテないのはどう考えてもお前らが悪い！OAD「1」 1
-225、M3 ～ソノ黒キ鋼～「24」 2
-226、櫻子さんの足下には死体が埋まっている「12」 Fin
-227、ヴァルキリードライヴ マーメイド「12」 1
-228、アカメが斬る！「24/S2」 Fin
-229、デュラララ！！「61/S3」 Fin
-230、ユリ熊嵐「12」 Fin
-231、ゆるゆり「36」 15/S02E03
-232、斉木楠雄のΨ難「24」 Fin
-233、アルドノア・ゼロ「24」 Fin
-234、ブルーロック「24」 Fin
-235、D4DJ
-    -D4DJ「25/2S」 Fin
-    -D4DJ OVA「?」 1
-236、響け！ユーフォニア
-    -響け！ユーフォニア「39/S3」 32/S03E01
-    -響け！ユーフォニア OVA「1」 1
-237、GUILTY GEAR STRIVE: DUAL RULERS「12」 Fin
-238、ベルセルク
-        -ベルセルク 1997「25」 Fin
-        -ベルセルク 2016「25/S2」 Fin
-239、攻殻機動隊
-    -攻殻機動隊 MOVIE 1995「1」 Fin
-    -攻殻機動隊 STAND ALONE COMPLEX「26」 Fin
-    -攻殻機動隊 S.A.C. 2nd GIG「26」 Fin
-    -攻殻機動隊 MOVIE 2004「1」 Fin
-240、わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）「12」 Fin
-241、帰宅部活動記録「12」 Fin
-242、推しが武道館いってくれたら死ぬ「12」 10
-243、R.O.D -THE TV-「26」 2
-244、死狂「12」 Fin
-245、サイコパス
-    -サイコパス「41/S3」 Fin
-246、Kill La Kill「25」 Fin
-247、賭博黙示録カイジ「52/S2」 Fin
-248、がっこうぐらし「12」 Fin
-249、屍姫「26/S2」 Fin
-250、Perfect Blue「1」 Fin
-250、くっつきぼし「2」 Fin
-251、新世界より「25」 2
-252、おにいさまへ…「39」 Fin
-
+1. NARUTO -ナルト- [TV Series | 2002 | C]
+   ├ NARUTO -ナルト- [TV Series | 2002 | 720 | Fin]
+   ├ 劇場版 NARUTO -ナルト- 大活劇! 雪姫忍法帖だってばよ!! [Movie | 2004 | 1 | 1]
+   ├ 劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ [Movie | 2005 | 1 | 1]
+   ├ 劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ [Movie | 2005 | 1 | 1]
+   ├ 劇場版 NARUTO -ナルト- 疾風伝 [Movie | 2007 | 1 | 1]
+   ├ 劇場版 NARUTO -ナルト- 疾風伝 絆 [Movie | 2008 | 1 | 1]
+   ├ 劇場版 NARUTO -ナルト- 疾風伝 火の意志を継ぐ者 [Movie | 2009 | 1 | 1]
+   ├ 劇場版 NARUTO -ナルト- 疾風伝 ザ・ロストタワー [Movie | 2010 | 1 | 1]
+   ├ 劇場版 NARUTO -ナルト- ブラッド・プリズン [Movie | 2011 | 1 | 1]
+   ├ ROAD TO NINJA -NARUTO THE MOVIE- [Movie | 2012 | 1 | 1]
+   ├ THE LAST -NARUTO THE MOVIE- [Movie | 2015 | 1 | 1]
+2. 氷菓 [TV Series | 2012 | 22 | Fin | B]
+3. 転生したらスライムだった件 [TV Series | 2018 | C]
+   ├ 転生したらスライムだった件 [TV Series | 2018 | 48/S3 | Fin]
+   ├ 転生したらスライムだった件 OAD [OAD | 2018 | 4 | Fin]
+   ├ 転スラ日記 転生したらスライムだった件 [TV Series | 2021 | 12 | Fin]
+4. ヴァイオレット・エヴァーガーデン [TV Series | 2018 | A]
+   ├ ヴァイオレット・エヴァーガーデン [TV Series | 2018 | 13 | Finx4]
+   ├ ヴァイオレット・エヴァーガーデン OVA [OVA | 2018 | 1 | Finx3]
+   ├ ヴァイオレット・エヴァーガーデン 外伝 -永遠と自動手記人形- [Movie | 2018 | 1 | Finx3]
+   ├ ヴァイオレット・エヴァーガーデン 劇場版 [Movie | 2020 | 1 | Finx2]
+5. 世界最高の暗殺者、異世界貴族に転生する [TV Series | 2022 | 12 | Fin | C]
+6. 探偵はもう、死んでいる [TV Series | 2021 | 12 | Fin | D]
+7. DARLING IN THE FRANXX [TV Series | 2018 | 24 | Fin | C]
+8. ブレンド・S [TV Series | 2017 | 12 | Fin | D]
+9. UQ HOLDER！ [TV Series | 2017 | E]
+   ├ UQ HOLDER！ [TV Series | 2017 | 12 | Fin]
+   ├ UQ HOLDER！ OAD [OAD | 2017 | 3 | Fin]
+10. ネトゲの嫁は女の子じゃないと思った？ [TV Series | 2016 | 12 | Fin | E]
+11. スライム倒して300年、知らないうちにレベルMAXになってました [TV Series | 2021 | 12 | Fin | C]
+12. 妹さえいればいい [TV Series | 2017 | E]
+   ├ 妹さえいればいい [TV Series | 2017 | 12 | Fin]
+   ├ ○○さえいればいい [TV Series | 2017 | 8 | 1]
+13. 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました [TV Series | 2021 | 13 | Fin | E]
+14. 战国千年 动态漫 [TV Series | 2022 | 12 | Fin | E]
+15. 「青春ブタ野郎」シリーズ [TV Series | 2018 | 13 | Fin | B]
+16. 迷宮ブラックカンパニー [TV Series | 2021 | 12 | Fin | C]
+17. 死神坊ちゃんと黒メイド [TV Series | 2021 | 12 | Fin | D]
+18. ピーチボーイリバーサイド [TV Series | 2021 | 12 | Fin | C]
+19. 甘城ブリリアントパーク [TV Series | 2014 | C]
+   ├ 甘城ブリリアントパーク [TV Series | 2014 | 12 | Fin]
+   ├ 甘城ブリリアントパーク OVA [OVA | 2014 | 1 | Fin]
+   ├ 甘城ブリリアントパーク SP [Special | 2014 | 7 | 1]
+20. やはり俺の青春ラブコメはまちがっている [TV Series | 2013 | S]
+   ├ やはり俺の青春ラブコメはまちがっている [TV Series | 2013 | 38/S3 | Fin]
+   ├ やはり俺の青春ラブコメはまちがっている OVA [OVA | 2013 | 2 | Fin]
+21. Angels of Death [TV Series | 2018 | 16 | Fin | B]
+22. 全职高手 [TV Series | 2017 | E]
+   ├ 全职高手 [TV Series | 2017 | 24 | Fin]
+   ├ 全职高手 特别篇 [OVA | 2017 | 3 | Fin]
+   ├ 全职高手之荣耀巅峰 [Movie | 2019 | 1 | Fin]
+23. 时光代理人 [TV Series | 2021 | 11+ | Finx2 | C]
+24. デート・ア・ライブ [TV Series | 2013 | D]
+   ├ デート・ア・ライブ [TV Series | 2013 | 48+ | 38/S02E04]
+   ├ 劇場版デート・ア・ライブ 万由里ジャッジメント [Movie | 2013 | 1 | Fin]
+   ├ デート・ア・ライブ フラグメント デート・ア・バレット [OVA | 2020 | 2 | Fin]
+25. ヨスガノソラ [TV Series | 2008 | 12 | Finx2 | B]
+26. ようこそ実力至上主義の教室へ [TV Series | 2017 | 13+ | 13/S02E01 | C]
+27. 五等分の花嫁 [TV Series | 2019 | 24/S2 | Fin | E]
+28. 回復術士のやり直し ～即死魔法とスキルコピーの超越ヒール～ [TV Series | 2021 | 12 | Fin | D]
+29. Tom and Jerry [TV Series | 1965 | B]
+   ├ Tom and Jerry 1965 [TV Series | 1965 | 55 | Fin]
+   ├ The New Tom & Jerry Show 1975 [TV Series | 1975 | 75 | 1]
+   ├ Tom and Jerry Kids Show [TV Series | 1990 | 65 | 1]
+   ├ Tom and Jerry Tales Season 1 [TV Series | 2006 | 50 | 1]
+   ├ Tom and Jerry: The Movie [Movie | 1992 | 1 | 1]
+   ├ Tom and Jerry: The Magic Ring [Movie | 2002 | 1 | Fin]
+   ├ Tom and Jerry Blast Off to Mars! [Movie | 2005 | 1 | Fin]
+   ├ Tom And Jerry The Fast And The Furry [Movie | 2005 | 1 | Fin]
+   ├ Tom and Jerry: Shiver Me Whiskers [Movie | 2006 | 1 | Fin]
+   ├ Tom and Jerry: A Nutcracker Tale [Movie | 2007 | 1 | Fin]
+   ├ Tom And Jerry Meet Sherlock Holmes [Movie | 2010 | 1 | Fin]
+   ├ Tom and Jerry & The Wizard of Oz [Movie | 2011 | 1 | Fin]
+   ├ Tom and Jerry's Giant Adventure [Movie | 2013 | 1 | Fin]
+   ├ Tom and Jerry: The Lost Dragon [Movie | 2014 | 1 | 1]
+   ├ Tom and Jerry: Spy Quest [Movie | 2015 | 1 | 1]
+   ├ Tom & Jerry: Back to Oz [Movie | 2016 | 1 | 1]
+   ├ Tom and Jerry: Willy Wonka and the Chocolate Factory [Movie | 2017 | 1 | 1]
+   ├ Tom and Jerry 2021 [Movie | 2021 | 1 | Fin]
+   ├ Tom and Jerry in New York [TV Series | 2021 | 7 | 1]
+30. この素晴らしい世界に祝福を！ [TV Series | 2016 | D]
+   ├ この素晴らしい世界に祝福を！ [TV Series | 2016 | 22/S2 | Fin]
+   ├ この素晴らしい世界に祝福を！ OVA [OVA | 2016 | 2 | Fin]
+   ├ この素晴らしい世界に祝福を！ 紅伝説 [Movie | 2019 | 1 | Fin]
+31. ワンパンマン [TV Series | 2015 | C]
+   ├ ワンパンマン [TV Series | 2015 | 24 | Fin]
+   ├ ワンパンマン OVA [OVA | 2015 | 12 | Fin]
+32. かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 [TV Series | 2019 | D]
+   ├ かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 [TV Series | 2019 | 37/S3 | 26/S03E02]
+   ├ かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 OVA [OVA | 2021 | 1 | Fin]
+33. エロマンガ先生 [TV Series | 2017 | E]
+   ├ エロマンガ先生 [TV Series | 2017 | 12 | Fin]
+   ├ エロマンガ先生 OVA [OVA | 2017 | 2 | 1]
+34. りゅうおうのおしごと [TV Series | 2018 | 12 | Fin | D]
+35. 魔女の旅々 [TV Series | 2020 | 12 | Fin | B]
+36. クロスアンジュ 天使と竜の輪舞(ロンド) [TV Series | 2014 | 25 | Fin | C]
+37. ゴブリンスレイヤー [TV Series | 2018 | C]
+   ├ ゴブリンスレイヤー [TV Series | 2018 | 13 | Fin]
+   ├ ゴブリンスレイヤー -GOBLIN'S CROWN- [Movie | 2018 | 1 | Fin]
+38. ひめゴト [TV Series | 2014 | 13 | Fin | C]
+39. Arcane [TV Series | 2021 | 18 | Finx2 | C]
+40. るろうに剣心 -明治剣客浪漫譚- [TV Series | 1996 | A]
+   ├ るろうに剣心 -明治剣客浪漫譚- [TV Series | 1996 | 94 | Fin]
+   ├ るろうに剣心 -明治剣客浪漫譚- 星霜編 [OVA | 2001 | 2 | 1]
+   ├ るろうに剣心 -明治剣客浪漫譚- 新京都編 [OVA | 2011 | 2 | Fin]
+   ├ るろうに剣心 -明治剣客浪漫譚- 新作 [TV Series | 2023 | 47/S2 | Finx1.5]
+41. BLEACH [TV Series | 2004 | A]
+   ├ BLEACH [TV Series | 2004 | 392+ | Fin]
+   ├ 劇場版 BLEACH MEMORIES OF NOBODY [Movie | 2006 | 1 | Fin]
+   ├ 劇場版 BLEACH もう一つの氷輪丸 [Movie | 2007 | 1 | Fin]
+   ├ 劇場版 BLEACH 君の名を呼ぶ [Movie | 2008 | 1 | Fin]
+   ├ 劇場版 BLEACH 地獄篇 [Movie | 2010 | 1 | Fin]
+42. とある魔術の禁書目録 [TV Series | 2008 | C]
+   ├ とある魔術の禁書目録 [TV Series | 2008]
+   │  ├ とある魔術の禁書目録 [TV Series | 2008 | 74/S3 | 31/S02E07]
+   │  ├ とある魔術の禁書目録たん [Special | 2018 | 4 | 1]
+   │  ├ とある魔術の禁書目録 SP [Special | 2008 | 1 | 1]
+   │  ├ 劇場版 とある魔術の禁書目録 エンデュミオンの奇蹟 [Movie | 2013 | 1 | 1]
+   ├ とある科学の超電磁砲 [TV Series | 2009 | 73/S3 | 25/S02E01]
+   ├ とある科学の一方通行 [TV Series | 2019 | 12 | 1]
+43. 王様ランキング [TV Series | 2021 | 23 | 10 | D]
+44. Fate [TV Series | 2006 | B]
+   ├ Fate/Prototype [OVA | 2011 | C]
+   │  ├ Fate/Prototype OVA [OVA | 2011 | 1 | Fin]
+   ├ Fate/Zero [TV Series | 2011 | A]
+   │  ├ Fate/Zero [TV Series | 2011 | 25/S2 | Finx4]
+   │  ├ お願い ! アインツベルン相談室 [Special | 2006 | 7 | 1]
+   ├ Fate/Stay night [TV Series | 2006 | B]
+   │  ├ Fate/Stay night 06 [TV Series | 2006 | 24/S2 | Fin]
+   │  ├ Fate/Stay night [Unlimited Blade Works] 劇場版 [Movie | 2010 | 1 | 1]
+   │  ├ Fate/Stay night [Unlimited Blade Works] [TV Series | 2014 | 26/S2 | Finx3]
+   │  ├ Fate/Stay night [Unlimited Blade Works] SP [Special | 2015 | 1 | Fin]
+   │  ├ 劇場版 Fate/Stay night [Heaven's Feel] [Movie | 2017 | 3 | Finx2]
+   ├ Fate/Extra Last Encore [TV Series | 2018 | 13 | Fin | C]
+   ├ Fate/Apocrypha [TV Series | 2017 | 25 | Finx3 | C]
+   ├ ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note- [TV Series | 2019 | 23 | Fin | B]
+   ├ Fate/Grand [TV Series | 2016 | C]
+   │  ├ Fate/Grand Order -MOONLIGHT- [Special | 2017 | 1 | Fin]
+   │  ├ Fate/Grand Order -絶対魔獣戦線バビロニア- [TV Series | 2019 | 22 | Fin]
+   │  ├ 劇場版 Fate/Grand Order -神聖円卓領域キャメロット- [Movie | 2020 | 1 | Fin]
+   │  ├ Fate/Grand Order 終局特異点 冠位時間神殿ソロモン [Special | 2021 | 1 | Fin]
+   │  ├ Fate/Grand Carnival [OVA | 2021 | 4 | 2]
+   ├ Fate/kaleid liner プリズマ☆イリヤ [TV Series | 2013 | B]
+   │  ├ Fate/kaleid liner プリズマ☆イリヤ [TV Series | 2013 | 42/S3 | Fin]
+   │  ├ Fate/kaleid liner プリズマ☆イリヤ OVA [OVA | 2019 | 1 | Fin]
+   │  ├ Fate/kaleid liner プリズマ☆イリヤ SP [Special | 2013 | ? | 1]
+   │  ├ Fate/kaleid liner プリズマ☆イリヤ Prisma☆Phantasm [OVA | 2019 | 1 | 1]
+   │  ├ 劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い [Movie | 2017 | 1 | Finx2]
+   │  ├ 劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女 [Movie | 2018 | 1 | Finx2]
+   ├ カーニバル・ファンタズム [OVA | 2011 | B]
+   │  ├ カーニバル・ファンタズム [OVA | 2011 | 12 | Fin]
+   │  ├ カーニバル・ファンタズム Special Season [Special | 2013 | 1 | Fin]
+   │  ├ カーニバル・ファンタズム EX Season [OVA | 2011 | 1 | Fin]
+   ├ 衛宮さんちの今日のごはん [TV Series | 2019 | 13 | Fin | C]
+45. 中二病でも恋がしたい！ [TV Series | 2012 | C]
+   ├ 中二病でも恋がしたい！ [TV Series | 2012 | 26/S2 | 23/S02E10]
+   ├ 小鳥遊六花・改 ～劇場版 中二病でも恋がしたい！～ [Movie | 2012 | 1 | 1]
+   ├ 映画 中二病でも恋がしたい！ -Take On Me- [Movie | 2018 | 1 | 1]
+46. ぼくたちのリメイク [TV Series | 2021 | 12 | 2 | C]
+47. 天才王子の赤字国家再生術〜そうだ、売国しよう〜 [TV Series | 2022 | 12 | Fin | D]
+48. プリンセスコネクト！Re:Dive [TV Series | 2020 | 25/S2 | 7/S01E07 | E]
+49. ジョジョの奇妙な冒険 [TV Series | 1993 | D]
+   ├ ジョジョの奇妙な冒険 [TV Series | 1993 | 26 | Fin]
+   ├ ジョジョの奇妙な冒険 戦闘潮流 [TV Series | 1993 | 26 | Fin]
+   ├ ジョジョの奇妙な冒険 スターダストクルセイダース [TV Series | 2014 | 48/S2 | Fin]
+   ├ ジョジョの奇妙な冒険 ダイヤモンドは砕けない [TV Series | 2016]
+   │  ├ ジョジョの奇妙な冒険 ダイヤモンドは砕けない [TV Series | 2016 | 39/S2 | Fin]
+   │  ├ 岸辺露伴は動かない [OVA | 2020 | 4 | 1]
+   ├ ジョジョの奇妙な冒険 黄金の風 [TV Series | 2018 | 39/S2 | Fin]
+   ├ ジョジョの奇妙な冒険 ストーンオーシャン [TV Series | 2021 | 38/S2 | Fin]
+50. Re:ゼロから始める異世界生活 [TV Series | 2016 | B]
+   ├ Re:ゼロから始める異世界生活 [TV Series | 2016 | 50/S3 | Fin]
+   ├ Re:ゼロから始める異世界生活 SP [Special | 2018 | 25 | 1]
+   ├ Re:ゼロから始める異世界生活 Memory Snow [OVA | 2018 | 1 | Fin]
+   ├ Re:ゼロから始める異世界生活 氷結の絆 [OVA | 2019 | 1 | Fin]
+51. 少女前线 [TV Series | 2019 | D]
+   ├ 少女前线 [TV Series | 2019 | 12 | 2]
+   ├ 少女前线 人形小剧场 [OVA | 2019 | 36 | 1]
+52. 聖痕のクェイサー [TV Series | 2010 | D]
+   ├ 聖痕のクェイサー [TV Series | 2010 | 36/S2 | 2/S02E01]
+   ├ 聖痕のクェイサー OVA [OVA | 2010 | 1 | 1]
+53. 碧蓝航线 [TV Series | 2021 | D]
+   ├ 碧蓝航线 [TV Series | 2021 | 12 | Finx2]
+   ├ 碧蓝航线 SP [Special | 2021 | ? | 1]
+   ├ 碧蓝航线:微速前行! [TV Series | 2021 | 12 | 1]
+54. 小林さんちのメイドラゴン [TV Series | 2017 | D]
+   ├ 小林さんちのメイドラゴン [TV Series | 2017 | 26/S2 | 2/S01E02]
+   ├ 小林さんちのメイドラゴン OVA [OVA | 2017 | 1 | 1]
+55. ソードアート・オンライン [TV Series | 2012 | C]
+   ├ ソードアート・オンライン [TV Series | 2012 | 37/S2 | 29/S02E04]
+   ├ ソードアート・オンライン Extra Edition [Special | 2013 | 1 | 1]
+   ├ 劇場版 ソードアート・オンライン -オーディナル・スケール- [Movie | 2017 | 1 | Fin]
+   ├ ソードアート・オンライン オルタナティブ ガンゲイル・オンライン [TV Series | 2018 | 12 | 1]
+   ├ ソードアート・オンライン アリシゼーション [TV Series | 2018 | 49/S2 | 1/S01E01]
+   ├ 劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア [Movie | 2021 | 1 | 1]
+56. 狐妖小红娘 [TV Series | 2015 | 148 | 89 | C]
+57. takt op.Destiny [TV Series | 2021 | 12 | 9 | B]
+58. ONE PIECE [TV Series | 1999 | D]
+   ├ ONE PIECE [TV Series | 1999 | 1023+ | 612]
+   ├ ONE PIECE 黄金島の冒険 [Movie | 2000 | 1 | 1]
+   ├ ONE PIECE ねじまき島の冒険 [Movie | 2001 | 1 | 1]
+   ├ ONE PIECE 珍獣島のチョッパー王国 [Movie | 2002 | 1 | 1]
+   ├ ONE PIECE THE MOVIE デッドエンドの冒険 [Movie | 2003 | 1 | 1]
+   ├ ONE PIECE 呪われた聖剣 [Movie | 2004 | 1 | 1]
+   ├ ONE PIECE THE MOVIE オマツリ男爵と秘密の島 [Movie | 2005 | 1 | 1]
+   ├ ONE PIECE THE MOVIE カラクリ城のメカ巨兵 [Movie | 2005 | 1 | 1]
+   ├ ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち [Movie | 2007 | 1 | 1]
+   ├ ONE PIECE THE MOVIE エピソードオブチョッパー+ 冬に咲く、奇跡の桜 [Movie | 2008 | 1 | 1]
+   ├ ONE PIECE FILM STRONG WORLD [Movie | 2009 | 1 | 1]
+   ├ ONE PIECE 3D 麦わらチェイス [Movie | 2010 | 1 | 1]
+   ├ ONE PIECE FILM Z [Movie | 2012 | 1 | 1]
+   ├ ONE PIECE FILM GOLD [Movie | 2016 | 1 | 1]
+   ├ ONE PIECE FILM RED [Movie | 2022 | 1 | 1]
+59. 坂本ですが？ [TV Series | 2016 | 13 | Fin | B]
+60. 平穏世代の韋駄天達 [TV Series | 2021 | 11 | Fin | B]
+61. 戦×恋 [TV Series | 2019 | 12 | 3 | E]
+62. 花咲くいろは [TV Series | 2011 | A]
+   ├ 花咲くいろは [TV Series | 2011 | 26 | Fin]
+   ├ 花咲くいろは Home Sweet Home [Movie | 2013 | 1 | Fin]
+63. 進撃の巨人 [TV Series | 2013 | B]
+   ├ 進撃の巨人 [TV Series | 2013 | 94/S4 | Fin]
+   ├ 進撃の巨人 OAD [OAD | 2013 | 8 | 1]
+64. 未来日記 [TV Series | 2011 | C]
+   ├ 未来日記 [TV Series | 2011 | 26 | Fin]
+   ├ 未来日記 OVA [OVA | 2011 | 1 | Fin]
+65. 86―エイティシックス― [TV Series | 2021 | 23 | Fin | C]
+66. その着せ替え人形は恋をする [TV Series | 2022 | 12 | Fin | E]
+67. 終わりのセラフ [TV Series | 2015 | 24/S2 | Fin | B]
+68. 尸兄 [TV Series | 2014 | 41 | Fin | D]
+69. クオリディア・コード [TV Series | 2016 | 12 | 3 | D]
+70. ロクでなし魔術講師と禁忌教典 [TV Series | 2017 | 12 | Fin | E]
+71. ありふれた職業で世界最強 [TV Series | 2019 | E]
+   ├ ありふれた職業で世界最強 [TV Series | 2019 | 25/S2 | Fin]
+   ├ ありふれた職業で世界最強 OVA [OVA | 2019 | 1 | Fin]
+72. スカートの中はケダモノでした [TV Series | 2017 | 12 | Finx2 | E]
+73. オオカミさんは食べられたい [TV Series | 2024 | 3 | Fin | E]
+74. Overlord [TV Series | 2015 | B]
+   ├ Overlord [TV Series | 2015 | 52/S4 | Finx2]
+   ├ Overlord SP [Special | 2015 | 39/S3 | 14/S02E01]
+   ├ Overlord OAD [OAD | 2015 | 1 | 1]
+   ├ Overlord 聖王国篇 [Movie | 2015 | 1 | Fin]
+75. one room [TV Series | 2017 | 36 | Fin | C]
+76. 堀さんと宮村くん [TV Series | 2021 | D]
+   ├ 堀さんと宮村くん [TV Series | 2021 | 13 | Fin]
+   ├ 堀さんと宮村くん OVA [OVA | 2021 | 6+ | 1]
+77. happy sugar life [TV Series | 2018 | 12 | Fin | B]
+78. ストロベリー・パニック! [TV Series | 2006 | 26 | Fin | A]
+79. 神無月の巫女 [TV Series | 2004 | 12 | Finx2 | B]
+80. マリア様がみてる [TV Series | 2003 | ? | 1 | C]
+81. Citrus [TV Series | 2018 | 12 | Finx2 | B]
+82. やがて君になる [TV Series | 2018 | 13 | Finx2 | B]
+83. 安達としまむら [TV Series | 2020 | 12 | Finx2 | B]
+84. 白い砂のアクアトープ [TV Series | 2021 | 24 | 6 | S]
+85. 桜トリック [TV Series | 2014 | 12 | Fin | C]
+86. リズと青い鳥 [Movie | 2018 | 1 | Finx2 | A]
+87. あさがおと加瀬さん [OVA | 2018 | 1 | Fin | B]
+88. フラグタイム [Movie | 2019 | 1 | Fin | B]
+89. 立花館To Lieあんぐる [TV Series | 2018 | 12 | Fin | D]
+90. その花びらにくちづけを あなたと恋人つなぎ OVA [OVA | 2016 | 1 | Finx4 | A]
+91. 捏造トラップ -NTR- [TV Series | 2017 | 12 | Finx2 | A]
+92. BURN THE WITCH [Movie | 2020 | 3 | Fin | B]
+93. SPY×FAMILY 間諜家家酒 [TV Series | 2022 | 12+ | Fin | D]
+94. The Garfield Show [TV Series | 2009]
+   ├ The Garfield Show [TV Series | 2009 | 131 | ?/??]
+95. リコリス・リコイル [TV Series | 2022 | 13 | Fin | B]
+96. ラブライブ! [TV Series | 2013 | B]
+   ├ ラブライブ! スクールアイドルプロジェクト [TV Series | 2013 | A]
+   │  ├ ラブライブ! スクールアイドルプロジェクト [TV Series | 2013 | 26/S2 | Fin]
+   │  ├ ラブライブ! スクールアイドルプロジェクト OVA [OVA | 2014 | 1 | Fin]
+   │  ├ ラブライブ! スクールアイドルプロジェクト 劇場版 [Movie | 2015 | 1 | Fin]
+   ├ ラブライブ! サンシャイン!! [TV Series | 2016 | B]
+   │  ├ ラブライブ! サンシャイン!! [TV Series | 2016 | 26/S2 | Fin]
+   │  ├ ラブライブ! サンシャイン!! OVA [OVA | 2016 | 1 | Fin]
+   │  ├ 幻日のヨハネ -SUNSHINE in the MIRROR- [TV Series | 2023 | 13 | Fin]
+   ├ ラブライブ! 虹ヶ咲学園スクールアイドル同好会 [TV Series | 2020 | A]
+   │  ├ ラブライブ! 虹ヶ咲学園スクールアイドル同好会 [TV Series | 2020 | 26/S2 | Finx2]
+   │  ├ ラブライブ! 虹ヶ咲学園スクールアイドル同好会 OVA [OVA | 2023 | 1 | Fin]
+   │  ├ にじよんあにめーしょん [TV Series | 2022 | 12 | 1]
+   ├ ラブライブ! スーパースター!! [TV Series | 2021 | 36/S3 | 25/S01E02 | C]
+97. 大鱼海棠 [Movie | 2016 | 1 | Fin | D]
+98. ハウルの動く城 [Movie | 2004 | 1 | Finx2 | A]
+99. 天空の城ラピュタ [Movie | 1986 | 1 | Finx2 | B]
+100. となりのトトロ [Movie | 1988 | 1 | Finx2 | C]
+101. 千と千尋の神隠し [Movie | 2001 | 1 | Fin | C]
+102. 異世界おじさん [TV Series | 2022 | 13 | Fin | C]
+103. BIRDIE WING -Golf Girls' Story- [TV Series | 2022 | 4+ | 1]
+104. ゆるキャン△ [TV Series | 2018 | B]
+   ├ ゆるキャン△ [TV Series | 2018 | 25 | Fin]
+   ├ ゆるキャン△ OVA [OVA | 2018 | 5 | 1]
+   ├ ゆるキャン△ 劇場版 [Movie | 2022 | 1 | 1]
+105. ブッチギレ [TV Series | 2022 | 6+ | 3 | D]
+106. 呪術廻戦 [TV Series | 2020 | C]
+   ├ 呪術廻戦 [TV Series | 2020 | 24 | Fin]
+   ├ 呪術廻戦0 劇場版 [Movie | 2020 | 1 | Fin]
+107. candy boy [OVA | 2007 | 9 | 8 | B]
+108. 少女セクト [OVA | 2008 | ? | 1 | B]
+109. 犬神さんと猫山さん [TV Series | 2014 | 13 | Fin | D]
+110. 裏世界ピクニック [TV Series | 2021 | 12 | Fin | C]
+111. 賭ケグルイ [TV Series | 2017 | B]
+   ├ 賭ケグルイ [TV Series | 2017 | 24 | Fin]
+   ├ 賭ケグルイ 双 [TV Series | 2017 | 6 | Fin]
+112. SHIROBAKO [TV Series | 2014 | C]
+   ├ SHIROBAKO [TV Series | 2014 | 24 | 2]
+   ├ SHIROBAKO 劇場版 [Movie | 2020 | ? | 1]
+113. STEINS;GATE [TV Series | 2011 | B]
+   ├ STEINS;GATE [TV Series | 2011 | 24 | Fin]
+   ├ STEINS;GATE 横行跋扈のポリオマニア [OVA | 2011 | 1 | 1]
+   ├ 劇場版 STEINS;GATE 負荷領域のデジャヴ [Movie | 2013 | 1 | 1]
+   ├ STEINS;GATE 聡明叡智のコグニティブ・コンピューティング [OVA | 2011 | 4 | 1]
+   ├ STEINS;GATE #23(β) 境界面上のミッシングリンク [OVA | 2011 | 1 | Fin]
+   ├ STEINS;GATE0 [TV Series | 2018 | 24 | Fin]
+114. Cyberpunk: Edgerunners [TV Series | 2022 | 10 | Fin | C]
+115. あの日見た花の名前を僕達はまだ知らない [TV Series | 2011 | C]
+   ├ あの日見た花の名前を僕達はまだ知らない [TV Series | 2011 | 11 | 1]
+   ├ あの日見た花の名前を僕達はまだ知らない 劇場版 [Movie | 2011 | 1 | 1]
+116. ヴィンランド・サガ [TV Series | 2019 | 48/S2 | Fin | B]
+117. Overflow [TV Series | 2020 | 8 | 4 | C]
+118. 此花亭奇譚 [TV Series | 2017 | 12 | Fin | C]
+119. Ange Vierge [TV Series | 2016 | 12 | 1]
+120. 少女☆歌劇 レヴュースタァライト [TV Series | 2018 | A]
+   ├ 少女☆歌劇 レヴュースタァライト [TV Series | 2018 | 12 | Finx2]
+   ├ 少女☆歌劇 レヴュースタァライト OVA [OVA | 2019 | 3 | 1]
+   ├ 少女☆寸劇 オールスタァライト [TV Series | 2018 | 26 | 1]
+   ├ 劇場版 少女☆歌劇 レヴュースタァライト [Movie | 2021 | 1 | Finx3]
+121. Dante's Inferno Animated [Movie | 2010 | 1 | Fin | C]
+122. 少女終末旅行 [TV Series | 2017 | B]
+   ├ 少女終末旅行 [TV Series | 2017 | 12 | Fin]
+   ├ 少女終末旅行 SP [Special | 2017 | 12 | Fin]
+123. ヘルシング [TV Series | 2006 | B]
+   ├ ヘルシング TV [TV Series | 2006 | 13 | 4]
+   ├ ヘルシング OVA [OVA | 2006 | 10 | Finx2]
+124. 終末のワルキューレ [TV Series | 2021 | 12 | Fin | D]
+125. マギ [TV Series | 2012 | B]
+   ├ マギ [TV Series | 2012 | 50 | Fin]
+   ├ マギ シンドバッドの冒険 [TV Series | 2012 | 13 | Fin]
+126. 街角魔族 [TV Series | 2019 | C]
+   ├ 街角魔族 [TV Series | 2019 | 24 | 13]
+127. 痛いのは嫌なので防御力に極振りしたいと思います [TV Series | 2020 | 12 | 3 | C]
+128. モブサイコ100 [TV Series | 2016 | C]
+   ├ モブサイコ100 [TV Series | 2016 | 37/S3 | Fin]
+   ├ モブサイコ100 OVA [OVA | 2016 | 2 | 1]
+129. サマータイムレンダ [TV Series | 2022 | 25 | Fin | C]
+130. 灰と幻想のグリムガル [TV Series | 2016 | C]
+   ├ 灰と幻想のグリムガル [TV Series | 2016 | 12 | 6]
+   ├ 灰と幻想のグリムガル OVA [OVA | 2016 | 1 | Fin]
+131. パリピ孔明 [TV Series | 2022 | 12 | Fin | C]
+132. グランベルム [TV Series | 2019 | 13 | Fin | C]
+133. 銀魂 [TV Series | 2006 | B]
+   ├ 銀魂 [TV Series | 2006 | 367 | Fin]
+   ├ 銀魂 OVA [OVA | 2006 | 2 | 1]
+134. 京騒戯画 [TV Series | 2015 | 13 | 5 | C]
+135. アキバ冥途戦争 [TV Series | 2022 | 12 | Fin | B]
+136. 鬼滅の刃 [TV Series | 2019 | 62+ | 54 | C]
+137. 【推しの子】 [TV Series | 2023 | 24 | Fin | C]
+138. グランブルーファンタジー [TV Series | 2017 | 28/S2 | Fin | C]
+139. 東方Project [OVA | 2006 | B]
+   ├ 幻想万華鏡 ~The Memories Of Phantasm~ [OVA | 2006 | 21 | 1]
+   ├ 東方夢想夏郷 [OVA | 2006 | 7 | 1]
+140. チェンソーマン [TV Series | 2022 | 12 | Fin | C]
+141. コードギアス [TV Series | 2006 | A]
+   ├ コードギアス [TV Series | 2006 | 50 | 1]
+   ├ コードギアス 亡国のアキト [OVA | 2012 | 5 | 1]
+   ├ コードギアス 漆黒の連夜 [OVA | 2010 | 1 | 1]
+   ├ コードギアス 双貌のオズ [OVA | 2012 | 1 | 1]
+   ├ コードギアス 反逆のルルーシュ 劇場版 [Movie | 2017 | 3 | Fin]
+142. ナカノヒトゲノム【実況中】 [TV Series | 2019 | C]
+   ├ ナカノヒトゲノム【実況中】 [TV Series | 2019 | 12 | Fin]
+   ├ ナカノヒトゲノム【実況中】 OVA [OVA | 2019 | 1 | Fin]
+143. Castlevania [TV Series | 2017 | 32 | Fin | C]
+144. ゲーマーズ！ [TV Series | 2017 | 12 | 1]
+145. プリンセス・プリンシパル [TV Series | 2017 | ? | 1]
+147. 青のオーケストラ [TV Series | 2023 | ? | 1]
+148. ワールドダイスター [TV Series | 2023 | 12 | 4]
+149. 私の百合はお仕事です！ [TV Series | 2023 | 12 | Fin | B]
+150. BanG Dream! [TV Series | 2017 | B]
+   ├ BanG Dream! [TV Series | 2017 | 39/S3 | 26 | C]
+   ├ BanG Dream! OVA [OVA | 2017 | 1 | Fin]
+   ├ BanG Dream! ガルパ☆ピコ [TV Series | 2018 | 78 | 1]
+   ├ BanG Dream! Morfonication [OVA | 2022 | 2 | 1]
+   ├ バンドリ！ ガールズバンドパーティ！ 5th Anniversary [Special | 2022 | 2 | 1]
+   ├ ぱすてるらいふ [TV Series | 2018 | 6 | 1]
+   ├ BanG Dream! It's MyGO!!!!! [TV Series | 2023 | 13 | Fin | B]
+   ├ BanG Dream! Ave Mujica [TV Series | 2024 | ? | 1 | B]\
+152. 東京リベンジャーズ [TV Series | 2021 | 50/S3 | Finx2 | C]
+153. 灰羽連盟 [TV Series | 2002 | 13 | 1]
+154. アサルトリリィBOUQUET [TV Series | 2020 | 12 | 1]
+155. 刀使ノ巫女 [TV Series | 2018 | D]
+   ├ 刀使ノ巫女 [TV Series | 2018 | 24 | Fin]
+   ├ 刀使ノ巫女 OVA [OVA | 2018 | 1 | 1]
+   ├ みにとじ [TV Series | 2018 | 12 | 1]
+156. ハイスクール・フリート [TV Series | 2016 | C]
+   ├ ハイスクール・フリート [TV Series | 2016 | 12 | Fin]
+   ├ ハイスクール・フリート OVA [OVA | 2016 | 2 | Fin]
+   ├ ハイスクール・フリート 劇場版 [Movie | 2016 | 1 | Fin]
+157. 女子かう生 [TV Series | 2019 | 12 | 1]
+158. 八月のシンデレラナイン [TV Series | 2019 | ? | 1]
+159. ゾンビランドサガ ZOMBIE LAND SAGA [TV Series | 2018 | 24 | Fin | B]
+160. 邪神ちゃんドロップキック [TV Series | 2018 | ? | 1]
+161. 十二大戦 [TV Series | 2017 | 12 | Fin | E]
+162. 王様ゲームジ・アニメーション [TV Series | 2017 | 12 | Finx2 | C]
+163. ぼっち・ざ・ろっく！ [TV Series | 2022 | 12 | Fin | C]
+164. 空の境界 [Movie | 2007 | 8 | Fin | A]
+165. 伊藤潤二「コレクション」 [TV Series | 2018 | C]
+   ├ 伊藤潤二「コレクション」 [TV Series | 2018 | 12 | Fin]
+   ├ 伊藤潤二「コレクション」 OVA [OVA | 2018 | 2 | Fin]
+166. Dies irae [TV Series | 2017 | 17 | Fin | C]
+167. デビルマン [TV Series | 2018 | 10 | Fin | C]
+168. 風が強く吹いている [TV Series | 2018 | 23 | Fin | C]
+169. DEATH NOTE [TV Series | 2006 | 37 | Fin | B]
+171. となりの吸血鬼さん [TV Series | 2018 | 12 | Fin | C]
+172. 天狼 Sirius the Jaeger [TV Series | 2018 | 12 | Fin | C]
+173. 結城友奈は勇者である [TV Series | 2014 | 37/S2 | Fin | B]
+174. ウマ娘 プリティーダービー [TV Series | 2018 | C]
+   ├ ウマ娘 プリティーダービー [TV Series | 2018 | 28/S2 | 1]
+   ├ ウマ娘 プリティーダービー EXTRA R [OVA | 2018 | 4 | 1]
+175. 転生王女と天才令嬢の魔法革命 [TV Series | 2023 | 12 | Fin | B]
+176. 魔法使いの嫁 OAD [OAD | 2016 | 6 | 4 | B]
+177. ペルソナ 〜トリニティ・ソウル〜 [TV Series | 2006 | 26 | 3 | B]
+178. 魔法少女まどか☆マギカ [TV Series | 2011 | B]
+   ├ 魔法少女まどか☆マギカ [TV Series | 2011 | 12 | Fin]
+   ├ 劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語 [Movie | 2012 | 1 | Fin]
+   ├ 劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語 [Movie | 2012 | 1 | Fin]
+   ├ 劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語 [Movie | 2013 | 1 | Fin]
+179. アイドルマスター [TV Series | 2011 | B]
+   ├ アイドルマスター シンデレラガールズ U149 [TV Series | 2023 | 13 | Fin]
+   ├ アイドルマスター シャイニーカラーズ [TV Series | 2023 | 24 | 1]
+   ├ アイドルマスター シンデレラガールズ [TV Series | 2011 | 26 | 1]
+   ├ アイドルマスター ミリオンライブ！ [TV Series | 2023 | 12 | 1]
+   ├ アイドルマスター XENOGLOSSIA [TV Series | 2007 | 26 | 1]
+   ├ アイドルマスター [TV Series | 2011 | 25 | 1]
+   ├ THE IDOLM@STER MOVIE 輝きの向こう側へ! [Movie | 2014 | 1 | 1]
+   ├ アイドルマスター SP [Special | 2011 | 1 | 1]
+   ├ ぷちます！ [OVA | 2011 | 138 | 1]
+   ├ ぷちます！ OVA [OVA | 2011 | 6 | 1]
+   ├ ぷちます！ OAD [OAD | 2013 | ? | 1]
+180. 東京喰種トーキョーグール [TV Series | 2014 | B]
+   ├ 東京喰種トーキョーグール [TV Series | 2014 | 48/S3 | Fin]
+   ├ 東京喰種トーキョーグール OVA [OVA | 2014 | 2 | Fin]
+181. 鋼の錬金術師 [TV Series | 2003 | B]
+   ├ 鋼の錬金術師 [TV Series | 2003 | 51 | Fin]
+   ├ 劇場版 鋼の錬金術師 シャンバラを征く者 [Movie | 2003 | 1 | 1]
+   ├ 鋼の錬金術師 FULLMETAL ALCHEMIST [TV Series | 2009 | 64 | Fin]
+   ├ 鋼の錬金術師 嘆きの丘の聖なる星 [Movie | 2011 | 1 | 1]
+182. 明日方舟 [TV Series | 2023 | 24/S2 | Fin | C]
+183. 陰の実力者になりたくて！ [TV Series | 2022 | 32/S2 | Fin | C]
+184. WIXOSS [TV Series | 2014 | B]
+   ├ selector infected WIXOSS [TV Series | 2014 | 24 | 1]
+   ├ Lostorage incited WIXOSS [TV Series | 2016 | 21 | 1]
+185. 紅殻のパンドラ -GHOST URN- [TV Series | 2016 | 12 | 2]
+186. 武装少女マキャヴェリズム [TV Series | 2017]
+   ├ 武装少女マキャヴェリズム [TV Series | 2017 | 12 | 4]
+   ├ 武装少女マキャヴェリズム OAD [OAD | 2017 | 1 | 1]
+187. 葬送のフリーレン [TV Series | 2023 | 28 | Fin | C]
+188. 王室教師ハイネ [TV Series | 2017 | 12 | 1 | D]
+189. 犬屋敷 [TV Series | 2017 | 11 | Fin | C]
+190. たくのみ。 [TV Series | 2018 | 12 | Fin | C]
+191. COPPELION [TV Series | 2013 | 13 | Fin | C]
+192. ノラガミ [TV Series | 2014 | 25 | 5 | C]
+193. てさぐれ！部活もの [TV Series | 2014 | 36/S3 | 13 | B]
+194. 魔法少女サイト [TV Series | 2018 | 12 | Fin | B]
+195. 寄生獣 [TV Series | 2014 | 24 | Fin | B]
+196. 極主夫道 [TV Series | 2020 | 15 | Fin | C]
+197. NieR:Automata Ver1.1a [TV Series | 2023 | 12 | Fin | B]
+198. ノブナガ・ザ・フール [TV Series | 2014 | 24 | 2 | E]
+199. BLAZBLUE ALTER MEMORY [TV Series | 2013 | 12 | Fin | B]
+200. G0!G0!575 [Special | 2021 | 1 | Fin | C]
+201. 艦隊これくしょん -艦これ- [TV Series | 2015 | C]
+   ├ 艦隊これくしょん -艦これ- [TV Series | 2015 | 20 | Fin]
+   ├ 劇場版 艦隊これくしょん -艦これ- [Movie | 2015 | 1 | Fin]
+202. pupa [TV Series | 2014 | 12 | Fin | C]
+203. ささやくように恋を唄う [TV Series | 2024 | 12 | Fin | B]
+204. 緋弾のアリア [TV Series | 2011 | 13 | Finx2 | C]
+205. 灼眼のシャナ [TV Series | 2005 | C]
+   ├ 灼眼のシャナ [TV Series | 2005 | 72/S3 | 61/S03E13]
+   ├ 灼眼のシャナ OVA [OVA | 2005 | 1 | Fin]
+206. ダーウィンズゲーム [TV Series | 2019 | 11 | Fin | C]
+207. 夜のクラゲは泳げない [TV Series | 2024 | 12 | Fin | B]
+208. 終末トレインどこへいく？ [TV Series | 2024 | 12 | Fin | C]
+209. お兄ちゃんはおしまい！ [TV Series | 2022 | 12 | Fin | C]
+210. ライザのアトリエ [TV Series | 2023 | 12 | Fin | B]
+211. アンデッドガール・マーダーファルス [TV Series | 2023 | 13 | Fin | B]
+212. 魔法少女にあこがれて [TV Series | 2024 | 13 | Fin | C]
+213. ひきこまり吸血姫の悶々 [TV Series | 2023 | 12 | Fin | B]
+214. 月とライカと吸血姫 [TV Series | 2021 | 12 | 1]
+215. BLOODY ESCAPE -地獄の逃走劇- [Movie | 2024 | 1 | 1]
+216. ブルーアーカイブ The Animation [TV Series | 2024 | 12 | Fin | C]
+217. メカクシティアクターズ [TV Series | 2014 | 12 | Fin | B]
+218. 悪魔のリドル [TV Series | 2014 | 13 | Fin | C]
+219. BLOOD-C [TV Series | 2011 | B]
+   ├ BLOOD-C [TV Series | 2011 | 12 | Fin]
+   ├ 劇場版 BLOOD-C [Movie | 2011 | 1 | Fin]
+220. serial experiments lain [TV Series | 1998 | 13 | Fin | A]
+221. ドキドキ！プリキュア [TV Series | 2013 | 49 | 13 | B]
+222. ニードレス [TV Series | 2009 | 24 | 1]
+223. あずまんが大王 [TV Series | 2002 | 24 | 1]
+224. 私がモテないのはどう考えてもお前らが悪い！ [TV Series | 2013 | E]
+   ├ 私がモテないのはどう考えてもお前らが悪い！ [TV Series | 2013 | 11 | 8]
+   ├ 私がモテないのはどう考えてもお前らが悪い！OAD [OAD | 2013 | 1 | 1]
+225. M3 ～ソノ黒キ鋼～ [TV Series | 2014 | 24 | 2 | D]
+226. 櫻子さんの足下には死体が埋まっている [TV Series | 2015 | 12 | Fin | C]
+227. ヴァルキリードライヴ マーメイド [TV Series | 2017 | 12 | 1]
+228. アカメが斬る！ [TV Series | 2014 | 24/S2 | Fin | B]
+229. デュラララ！！ [TV Series | 2010 | 61/S3 | Fin | A]
+230. ユリ熊嵐 [TV Series | 2015 | 12 | Fin | B]
+231. ゆるゆり [TV Series | 2011 | 36 | 15/S02E03 | B]
+232. 斉木楠雄のΨ難 [TV Series | 2016 | 24 | Fin | B]
+233. アルドノア・ゼロ [TV Series | 2014 | 24 | Fin | S]
+234. ブルーロック [TV Series | 2022 | 24 | Fin | C]
+235. D4DJ [TV Series | 2020 | B]
+   ├ D4DJ [TV Series | 2020 | 25/S2 | Fin]
+   ├ D4DJ OVA [OVA | 2020 | ? | 1]
+236. 響け！ユーフォニア [TV Series | 2015 | B]
+   ├ 響け！ユーフォニア [TV Series | 2015 | 39/S3 | 20/S01E03]
+   ├ 響け！ユーフォニア OVA [OVA | 2015 | 1 | 1]
+237. GUILTY GEAR STRIVE: DUAL RULERS [TV Series | 2025 | 12 | Fin | D]
+238. ベルセルク [TV Series | 1997 | A]
+   ├ ベルセルク 1997 [TV Series | 1997 | 25 | Fin]
+   ├ ベルセルク 2016 [TV Series | 2016 | 25/S2 | Fin]
+239. 攻殻機動隊 [TV Series | 1989 | A]
+   ├ 攻殻機動隊 MOVIE 1995 [Movie | 1995 | 1 | Fin]
+   ├ 攻殻機動隊 STAND ALONE COMPLEX [TV Series | 2002 | 26 | Fin]
+   ├ 攻殻機動隊 S.A.C. 2nd GIG [TV Series | 2004 | 26 | Fin]
+   ├ 攻殻機動隊 MOVIE 2004 [Movie | 2004 | 1 | Fin]
+240. わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?） [TV Series | 2023 | 12 | Fin | B]
+241. 帰宅部活動記録 [TV Series | 2013 | 12 | Fin | B]
+242. 推しが武道館いってくれたら死ぬ [TV Series | 2018 | 12 | 10 | C]
+243. R.O.D -THE TV- [TV Series | 2003 | 26 | 2 | B]
+244. 死狂 [TV Series | 2003 | 12 | Fin | B]
+245. サイコパス [TV Series | 2012 | B]
+   ├ サイコパス [TV Series | 2012 | 41/S3 | Fin]
+246. Kill La Kill [TV Series | 2013 | 25 | Fin | A]
+247. 賭博黙示録カイジ [TV Series | 2007 | 52/S2 | Fin | B]
+248. がっこうぐらし [TV Series | 2015 | 12 | Fin | C]
+249. 屍姫 [TV Series | 2006 | 26/S2 | Fin | B]
+250. Perfect Blue [Movie | 1998 | 1 | Fin | B]
+251. くっつきぼし [OVA | 2010 | 2 | Fin | A]
+252. 新世界より [TV Series | 2012 | 25 | 2 | B]
+253. おにいさまへ… [TV Series | 1991 | 39 | Fin | A]
 ```
-
 ## Comic
-
 ```text
-1、ささやくように恋を唄う「8」 Fin
-2、ロンリーガールに逆らえない「6」 Fin
-3、安達としまむら「4」 Fin
-4、汚い君が一番かわいい「6」 Fin
-5、神絵師JKとOL腐女子「5」 2
-6、イヴのおくすり「?」 1
-7、彩純ちゃんはレズ風俗に興味があります！「4」 1
-8、ドM女子とがっかり女王様「4」 1
-9、百合SMでふたりの気持ちはつながりますか?「2」 Fin
-10、魔法少女にあこがれて「10」 1
-11、恋する狼とミルフィーユ「4」 1
-12、熱帯魚は雪に焦がれる「9」 Finx2
-13、将来的に死んでくれ「7」 Fin
-14、吸血鬼ちゃん×後輩ちゃん「4」 1
-15、たとえとどかぬ糸だとしても「7」 1
-16、私の百合はお仕事です！「12」 1
-17、ふたりべや「10」 1
-18、きみが死ぬまで恋をしたい「6」 1
-19、君と綴るうたかた「5」 1
-20、少女漫画主人公×ライバルさん「4」 1
-21、私を喰べたい、ひとでなし「7」 1
-22、踊り場にスカートが鳴る「4」 1
-23、Citrus「10」 Fin
-24、同級生の推し作家に百合妄想がバレた結果「3」 1
-25、わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）「3」 1
-26、徒然日和「3」 1
-27、女ともだちと結婚してみた。「4」 1
-28、夜と海「3」 2
-29、不揃いの連理「9+」 Fin
-30、一度だけでも、後悔してます。「3」 1
-31、雨でも晴れでも「3」 1
-32、加瀬さんシリーズ「8」 1
-33、とどのつまりの有頂天「2」 1
-34、夜は羊を数えない「4+」 Fin
-35、三角形の壊し方「2+」 Fin
-36、私だって青春したいですよ、ほんとうは「4+」 Fin
-37、拝啓、在りし日に咲く花たちへ「4+」 Fin
-38、姫神の巫女「4」 Fin
-39、百合の始まりは奴隷から「2+」 2
-40、貴女へささげるサディスティック「2+」 Fin
-41、堕天使ソプラノの復讐「2+」 2
-42、春とみどり「3」 Fin
-43、アネモネは熱を帯びる「4+」 Fin
+1. ささやくように恋を唄う [2019 | 8 | Fin]
+2. 捏造トラップ-NTR- [2014 | 6 | Fin]
+3. ロンリーガールに逆らえない [2021 | 6 | Fin]
+4. 安達としまむら [2016 | 4 | Fin]
+5. 汚い君が一番かわいい [2021 | 6 | Fin]
+6. 神絵師JKとOL腐女子 [2022 | 5 | 2]
+7. イヴのおくすり [2021 | ? | 1]
+8. 彩純ちゃんはレズ風俗に興味があります！ [2021 | 4 | 1]
+9. ドM女子とがっかり女王様 [2022 | 4 | 1]
+10. 百合SMでふたりの気持ちはつながりますか? [2022 | 2 | Fin]
+11. 魔法少女にあこがれて [2019 | 10 | 1]
+12. 恋する狼とミルフィーユ [2022 | 4 | 1]
+13. 熱帯魚は雪に焦がれる [2017 | 9 | Finx2]
+14. 将来的に死んでくれ [2021 | 7 | Fin]
+15. 吸血鬼ちゃん×後輩ちゃん [2022 | 4 | 1]
+16. たとえとどかぬ糸だとしても [2016 | 7 | 1]
+17. 私の百合はお仕事です！ [2016 | 12 | 1]
+18. ふたりべや [2021 | 10 | 1]
+19. きみが死ぬまで恋をしたい [2022 | 6 | 1]
+20. 君と綴るうたかた [2022 | 5 | 1]
+21. 少女漫画主人公×ライバルさん [2022 | 4 | 1]
+22. 私を喰べたい、ひとでなし [2021 | 7 | 1]
+23. 踊り場にスカートが鳴る [2022 | 4 | 1]
+24. Citrus [2012 | 10 | Fin]
+25. 同級生の推し作家に百合妄想がバレた結果 [2022 | 3 | 1]
+26. わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?） [2020 | 3 | 1]
+27. 徒然日和 [2017 | 3 | 1]
+28. 女ともだちと結婚してみた。 [2021 | 4 | 1]
+29. 夜と海 [2021 | 3 | 2]
+30. 不揃いの連理 [2017 | 9+ | Fin]
+31. 一度だけでも、後悔してます。 [2022 | 3 | 1]
+32. 雨でも晴れでも [2022 | 3 | 1]
+33. 加瀬さんシリーズ [2010 | 8 | 1]
+34. とどのつまりの有頂天 [2022 | 2 | 1]
+35. 夜は羊を数えない [2022 | 4+ | Fin]
+36. 三角形の壊し方 [2022 | 2+ | Fin]
+37. 私だって青春したいですよ、ほんとうは [2022 | 4+ | Fin]
+38. 拝啓、在りし日に咲く花たちへ [2022 | 4+ | Fin]
+39. 姫神の巫女 [2022 | 4 | Fin]
+40. 百合の始まりは奴隷から [2021 | 2+ | 2]
+41. 貴女へささげるサディスティック [2022 | 2+ | Fin]
+42. 堕天使ソプラノの復讐 [2022 | 2+ | 2]
+43. 春とみどり [2022 | 3 | Fin]
+44. アネモネは熱を帯びる [2022 | 4+ | Fin]
 ```
