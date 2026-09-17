@@ -1,5 +1,5 @@
 ---
-title: 关于我
+title: About
 description: AlmeasqViolet的日志
 date: 2025-03-01
 lastmod: 2026-09-08
