@@ -451,7 +451,7 @@ giscus:
   inputPosition: bottom
   theme:
     light: light
-    dark: dark
+    dark: dark_dimmed
 
 
 # https://disqus.com
