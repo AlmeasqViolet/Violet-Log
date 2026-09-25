@@ -270,7 +270,7 @@ categories:
 81. Citrus [TV Series | 2018 | 12 | Finx2 | B]
 82. やがて君になる [TV Series | 2018 | 13 | Finx2 | B]
 83. 安達としまむら [TV Series | 2020 | 12 | Finx2 | B]
-84. 白い砂のアクアトープ [TV Series | 2021 | 24 | 14 | A]
+84. 白い砂のアクアトープ [TV Series | 2021 | 24 | 20 | B]
 85. 桜トリック [TV Series | 2014 | 12 | Fin | C]
 86. リズと青い鳥 [Movie | 2018 | 1 | Finx2 | A]
 87. あさがおと加瀬さん [OVA | 2018 | 1 | Fin | B]
