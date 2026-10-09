@@ -556,6 +556,7 @@ categories:
 251. くっつきぼし [OVA | 2010 | 2 | Fin | A]
 252. 新世界より [TV Series | 2012 | 25 | 2 | B]
 253. おにいさまへ… [TV Series | 1991 | 39 | Fin | A]
+254. 残響のテロル [TV Series | 2014 | 12 | 6 | C]
 ```
 ## Comic
 ```text
