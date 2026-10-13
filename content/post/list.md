@@ -524,7 +524,7 @@ categories:
 230. ユリ熊嵐 [TV Series | 2015 | 12 | Fin | B]
 231. ゆるゆり [TV Series | 2011 | 36 | 15/S02E03 | B]
 232. 斉木楠雄のΨ難 [TV Series | 2016 | 24 | Fin | B]
-233. アルドノア・ゼロ [TV Series | 2014 | 24 | Fin | S]
+233. アルドノア・ゼロ [TV Series | 2014 | 24 | Fin | A]
 234. ブルーロック [TV Series | 2022 | 24 | Fin | C]
 235. D4DJ [TV Series | 2020 | B]
    ├ D4DJ [TV Series | 2020 | 25/S2 | Fin]
