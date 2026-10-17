@@ -145,7 +145,7 @@ categories:
    ├ Fate/Zero [TV Series | 2011 | A]
    │  ├ Fate/Zero [TV Series | 2011 | 25/S2 | Finx4]
    │  ├ お願い ! アインツベルン相談室 [Special | 2006 | 7 | 1]
-   ├ Fate/Stay night [TV Series | 2006 | B]
+   ├ Fate/Stay night [TV Series | 2006 | A]
    │  ├ Fate/Stay night 06 [TV Series | 2006 | 24/S2 | Fin]
    │  ├ Fate/Stay night [Unlimited Blade Works] 劇場版 [Movie | 2010 | 1 | 1]
    │  ├ Fate/Stay night [Unlimited Blade Works] [TV Series | 2014 | 26/S2 | Finx3]
