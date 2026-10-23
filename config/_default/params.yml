@@ -3,18 +3,19 @@
 ########################################
 
 # main menu navigation
-# for more icon information, please visit https://github.com/D-Sketon/hexo-theme-reimu/issues/30
+# 图标用当前 icon_font（font_4552607_ex15nbittbh）里的码位：
+#   e632 house-chimney-solid（家）  e605 calendar（按日期归档）  e647 circle-info-solid（关于）
+# 留空则回退成主题默认的太极图标
 menu:
   - name: home
     url: ""
-    icon:
-    # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
+    icon: e632
   - name: archives
     url: "archives"
-    icon: 
+    icon: e605
   - name: about
     url: "about"
-    icon: 
+    icon: e647
   #- name: friend
    # url: "friend"
     #icon:
@@ -106,13 +107,13 @@ copyright:
 #   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></div>
 
 footer:
-  since: 2020 # 2020-current year
+  since: 2025 # 2025-current year
   powered: true
   count: true
   busuanzi: true
   icon:
-    url: "../images/taichi.png" # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
-    rotate: true
+    url: "../images/footer-sep.svg" # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
+    rotate: false
     mask: true # whether to use the images as a mask
 
 # Sidebar
@@ -199,7 +200,7 @@ sort_order:
 
 # Pagination
 paginate:
-  archive: # Number of posts per page in archive and taxonomy pages
+  archive: 20 # Number of posts per page in archive and taxonomy pages
   post: # Number of posts per page in home and other list pages
 
 ########################################
@@ -484,9 +485,12 @@ beaudar:
 ########################################
 # Search
 ########################################
-
+# Search runs entirely in the browser (assets/js/algolia_search.ts).
+# `enable` only switches the popup / header button / styles on.
+# The index is Hugo's own algolia.json output (title + plain text of every
+# post), fetched on first use, so no Algolia account or key is required.
 algolia_search:
-  enable: false
+  enable: true
   appID:
   apiKey:
   indexName:
@@ -498,7 +502,7 @@ algolia_search:
 ########################################
 
 preloader:
-  enable: true
+  enable: false
   text: 
     zh-CN: 少女祈祷中...
     zh-TW: 少女祈禱中...
@@ -654,7 +658,424 @@ home_categories:
 # Make sure your code snippet is safeHTML
 injector:
   head_begin: # Inject code snippet right after <head>
-  head_end: # Inject code snippet right before </head>
+  # 在 body 渲染前同步应用暗色主题，避免整页刷新时先闪一下白底
+  # （主题自带的 main.ts 在页面底部才执行，首帧来不及）
+  head_end: |
+    <script>
+      (function () {
+        try {
+          var stored = localStorage.getItem("dark_mode");
+          var fallback = document.documentElement.getAttribute("data-theme-mode") || "auto";
+          var mode = stored || fallback;
+          var osDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+          var isDark = mode === "true" || (mode === "auto" && osDark);
+          if (isDark) {
+            document.documentElement.setAttribute("data-theme", "dark");
+            document.documentElement.style.colorScheme = "dark";
+          } else {
+            document.documentElement.style.colorScheme = "light";
+          }
+          document.addEventListener("DOMContentLoaded", function () {
+            document.body.addEventListener("reimu:theme-set", function (e) {
+              var dark = e.detail && e.detail.isDark;
+              document.documentElement.style.colorScheme = dark ? "dark" : "light";
+            });
+            var sub = document.getElementById("sub-nav");
+            if (sub && !document.getElementById("nav-header-toggle")) {
+              var toggle = document.createElement("a");
+              toggle.id = "nav-header-toggle";
+              toggle.setAttribute("role", "button");
+              toggle.title = "Hide header";
+              toggle.setAttribute("aria-label", "Hide header");
+              document.body.appendChild(toggle);
+              var alignToggle = function () {
+                var nav = document.getElementById("header-nav");
+                if (!nav) return;
+                var h = nav.offsetHeight;
+                if (!h) return;
+                toggle.style.top = Math.round((h - toggle.offsetHeight) / 2) + "px";
+              };
+              alignToggle();
+              window.addEventListener("resize", alignToggle);
+              var setCollapsed = function (v) {
+                document.body.classList.toggle("header-collapsed", v);
+                toggle.title = v ? "Show header" : "Hide header";
+                toggle.setAttribute("aria-label", toggle.title);
+                try { localStorage.setItem("header_collapsed", v ? "1" : "0"); } catch (e) {}
+              };
+              try {
+                if (localStorage.getItem("header_collapsed") === "1") setCollapsed(true);
+              } catch (e) {}
+              toggle.addEventListener("click", function () {
+                setCollapsed(!document.body.classList.contains("header-collapsed"));
+              });
+              document.addEventListener("keydown", function (e) {
+                if (e.key === "Escape") setCollapsed(false);
+              });
+            }
+          });
+        } catch (e) {}
+      })();
+    </script>
+    <style>
+      /* 顶部导航图标：线性 SVG 通过 mask 上色，跟随主题色和 hover 变化
+         菜单顺序 home / archives / about 对应下面的 nth-of-type(1..3)
+         图标文件在 static/images/icons/，路径含站点子路径 /Violet-Log/
+         不支持 mask 的浏览器会保留原来的字体图标作为回退 */
+      @supports ((-webkit-mask-image: linear-gradient(#000, #000)) or (mask-image: linear-gradient(#000, #000))) {
+        #main-nav .main-nav-icon {
+          font-size: 0 !important;
+          width: 26px;
+          height: 26px;
+          padding: 14px 4px;
+          background: currentColor;
+          -webkit-mask-image: var(--nav-icon);
+          mask-image: var(--nav-icon);
+          -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
+          -webkit-mask-position: center;
+          mask-position: center;
+          -webkit-mask-size: 26px 26px;
+          mask-size: 26px 26px;
+        }
+        #main-nav .main-nav-link-wrap:nth-of-type(1) .main-nav-icon {
+          --nav-icon: url("/Violet-Log/images/icons/home.svg");
+        }
+        #main-nav .main-nav-link-wrap:nth-of-type(2) .main-nav-icon {
+          --nav-icon: url("/Violet-Log/images/icons/archive.svg");
+        }
+        #main-nav .main-nav-link-wrap:nth-of-type(3) .main-nav-icon {
+          --nav-icon: url("/Violet-Log/images/icons/info.svg");
+        }
+      }
+      /* 侧边栏统计项：Posts / Categories / Tags 都是链接，hover 时上浮+变色+下划线提示可点 */
+      .sidebar-state a {
+        text-decoration: none;
+        color: inherit;
+        transition: color 0.2s ease, transform 0.2s ease;
+      }
+      .sidebar-state a:hover,
+      .sidebar-state a:focus-visible {
+        color: var(--red-2);
+        transform: translateY(-2px);
+      }
+      /* 下划线用伪元素画，避免 text-decoration-skip-ink 在 g/y 这类字母下断开 */
+      .sidebar-state a > div:first-child {
+        position: relative;
+      }
+      .sidebar-state a > div:first-child::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: -3px;
+        height: 2px;
+        border-radius: 1px;
+        background: currentColor;
+        transform: scaleX(0);
+        transform-origin: center;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-state a:hover > div:first-child::after,
+      .sidebar-state a:focus-visible > div:first-child::after {
+        transform: scaleX(1);
+      }
+      .sidebar-state a:active {
+        transform: translateY(0) scale(0.97);
+      }
+      .sidebar-state a:focus-visible {
+        outline: 2px solid currentColor;
+        outline-offset: 4px;
+        border-radius: 4px;
+      }
+      /* 归档页标签/分类胶囊后的文章数 */
+      .archives-capsule-count {
+        margin-left: 5px;
+        font-size: 0.78em;
+        font-weight: 400;
+        opacity: 0.65;
+      }
+      /* 侧边栏小部件：与 Posts/Categories/Tags 统计项一致的 hover 效果
+         整行上浮 2px + 变色 + 从中间展开的 2px 下划线 */
+      .sidebar-widget .widget ul li {
+        padding-bottom: 3px;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-widget .widget ul li:hover {
+        transform: translateY(-2px);
+      }
+      .sidebar-widget .widget ul li > a,
+      .sidebar-widget .widget.tagcloud a {
+        position: relative;
+        transition: color 0.2s ease, transform 0.2s ease;
+      }
+      .sidebar-widget .widget ul li > a:hover,
+      .sidebar-widget .widget ul li > a:focus-visible,
+      .sidebar-widget .widget.tagcloud a:hover,
+      .sidebar-widget .widget.tagcloud a:focus-visible {
+        color: var(--red-2);
+      }
+      .sidebar-widget .widget ul li > a::after,
+      .sidebar-widget .widget.tagcloud a::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: -2px;
+        height: 2px;
+        border-radius: 1px;
+        background: currentColor;
+        transform: scaleX(0);
+        transform-origin: center;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-widget .widget ul li > a:hover::after,
+      .sidebar-widget .widget ul li > a:focus-visible::after,
+      .sidebar-widget .widget.tagcloud a:hover::after,
+      .sidebar-widget .widget.tagcloud a:focus-visible::after {
+        transform: scaleX(1);
+      }
+      .sidebar-widget .widget.tagcloud a:hover,
+      .sidebar-widget .widget.tagcloud a:focus-visible {
+        transform: translateY(-2px);
+      }
+      .sidebar-widget .widget-link:hover {
+        color: var(--red-2);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+      }
+      .sidebar-widget .widget a:focus-visible {
+        outline: 2px solid currentColor;
+        outline-offset: 3px;
+        border-radius: 3px;
+      }
+      /* 文章目录：与侧边栏小部件一致的 hover 效果 */
+      .sidebar-toc-wrapper li {
+        padding-bottom: 3px;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-toc-wrapper li:hover {
+        transform: translateY(-2px);
+      }
+      .sidebar-toc-wrapper a {
+        position: relative;
+        transition: color 0.2s ease, opacity 0.2s ease;
+      }
+      .sidebar-toc-wrapper a:hover,
+      .sidebar-toc-wrapper a:focus-visible {
+        color: var(--red-2);
+        opacity: 1;
+      }
+      .sidebar-toc-wrapper a::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: -2px;
+        height: 2px;
+        border-radius: 1px;
+        background: currentColor;
+        transform: scaleX(0);
+        transform-origin: center;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-toc-wrapper a:hover::after,
+      .sidebar-toc-wrapper a:focus-visible::after {
+        transform: scaleX(1);
+      }
+      .sidebar-toc-wrapper a:focus-visible {
+        outline: 2px solid currentColor;
+        outline-offset: 3px;
+        border-radius: 3px;
+      }
+      /* 顶栏常驻搜索框（替代原来的浮动搜索弹层） */
+      .site-search {
+        display: none !important;
+      }
+      /* 顶栏右侧图标顺序：RSS → 明暗切换 → 收起顶栏 → 搜索框 */
+      #sub-nav #nav-rss-link {
+        order: 1;
+      }
+      #sub-nav .dark-mode-btn {
+        order: 2;
+      }
+      #sub-nav .nav-search {
+        order: 4;
+      }
+      /* 顶栏右侧：用统一的 gap 控制间距，去掉图标各自的左右 padding */
+      #sub-nav {
+        gap: 16px;
+      }
+      #sub-nav .nav-icon {
+        padding-left: 0;
+        padding-right: 0;
+      }
+      .nav-search {
+        position: relative;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        margin: 0;
+      }
+      .nav-search-icon {
+        flex: 0 0 auto;
+        color: var(--red-0);
+        opacity: 0.8;
+        line-height: 1;
+        transition: opacity 0.2s ease;
+      }
+      .nav-search-icon::before {
+        content: "\e631";
+        font-family: "iconfont";
+        font-size: 15px;
+        font-weight: 400;
+        display: inline-block;
+      }
+      .nav-search:focus-within .nav-search-icon {
+        opacity: 1;
+      }
+      #nav-search-input {
+        width: 150px;
+        height: 30px;
+        padding: 0 12px;
+        border: 1px solid var(--color-h2-border);
+        border-radius: 15px;
+        background: var(--color-wrap);
+        color: var(--color-default);
+        font-size: 13px;
+        outline: none;
+        transition: width 0.2s ease, border-color 0.2s ease;
+      }
+      #nav-search-input:focus {
+        width: 190px;
+        border-color: var(--red-2);
+      }
+      #nav-search-input::placeholder {
+        color: var(--grey-7);
+      }
+      .nav-search-results {
+        position: absolute;
+        top: calc(100% + 10px);
+        right: 0;
+        width: 380px;
+        max-height: 60vh;
+        overflow: auto;
+        padding: 6px 0;
+        border-radius: 10px;
+        background: var(--color-wrap);
+        box-shadow: var(--shadow-card);
+        z-index: 500;
+      }
+      .nav-search-results[hidden] {
+        display: none;
+      }
+      .nav-search-stats {
+        padding: 6px 16px;
+        font-size: 12px;
+        color: var(--grey-7);
+      }
+      .nav-search-hit {
+        display: block;
+        padding: 8px 16px;
+        text-decoration: none;
+        color: var(--color-link);
+      }
+      .nav-search-hit:hover {
+        background: var(--red-5);
+      }
+      .nav-search-hit-title {
+        font-size: 14px;
+      }
+      .nav-search-hit-excerpt {
+        margin-top: 2px;
+        font-size: 12px;
+        line-height: 1.5;
+        opacity: 0.7;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .nav-search-hit-excerpt mark {
+        background: var(--red-1);
+        color: #fff;
+      }
+      .nav-search-empty {
+        padding: 12px 16px;
+        font-size: 13px;
+        color: var(--grey-7);
+      }
+      .nav-search-more-btn {
+        display: block;
+        margin: 6px auto 4px;
+        padding: 6px 16px;
+        border: none;
+        border-radius: 12px;
+        background: var(--red-1);
+        color: #fff;
+        font-size: 12px;
+        cursor: pointer;
+      }
+      .nav-search-more-btn:hover {
+        opacity: 0.85;
+      }
+      @media screen and (max-width: 767px) {
+        #nav-search-input {
+          width: 96px;
+        }
+        #nav-search-input:focus {
+          width: 130px;
+        }
+        .nav-search-results {
+          position: fixed;
+          top: 54px;
+          left: 12px;
+          right: 12px;
+          width: auto;
+        }
+      }
+      /* 关闭顶栏向下滚动自动隐藏：始终保持 top: 0 */
+      #header-nav.header-nav-hidden {
+        top: 0;
+      }
+      /* 顶栏开关：收起/展开共用一个固定在右侧边角的按钮 */
+      body.header-collapsed #header-nav {
+        top: -80px;
+      }
+      #nav-header-toggle {
+        position: fixed;
+        top: 16px;
+        right: 12px;
+        z-index: 300;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 34px;
+        height: 28px;
+        background: transparent;
+        color: var(--red-0);
+        opacity: 0.75;
+        cursor: pointer;
+        transition: opacity 0.2s ease, color 0.2s ease;
+      }
+      #nav-header-toggle:hover {
+        opacity: 1;
+        color: var(--red-2);
+      }
+      #nav-header-toggle::before {
+        content: "\e609";
+        font-family: "iconfont";
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1;
+        display: inline-block;
+        transform: rotate(180deg);
+        transition: transform 0.2s ease;
+      }
+      body.header-collapsed #nav-header-toggle::before {
+        transform: rotate(0deg);
+      }
+    </style>
   body_begin: # Inject code snippet right after <body>
   body_end: # Inject code snippet right before </body>
   sidebar_begin: # Inject code snippet right after <aside>
