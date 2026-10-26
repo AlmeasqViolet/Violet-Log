@@ -1,0 +1,33 @@
+{{- if len .Site.Taxonomies.tags -}}
+  <div class="widget-wrapper">
+    <div
+      class="widget-wrap"
+      data-aos="{{ .Site.Params.animation.options.home.widget }}"
+    >
+      <h3 class="widget-title">{{ i18n "tagcloud" }}</h3>
+      {{- /* 主题原来的权重是整数除法，小站点里所有标签都会算成同一档；这里按最大计数分 5 档，并显示计数 */ -}}
+      {{- $max := 1 -}}
+      {{- range .Site.Taxonomies.tags -}}
+        {{- if gt .Count $max -}}{{- $max = .Count -}}{{- end -}}
+      {{- end -}}
+      <div class="widget tagcloud">
+        {{- $counter := 0 -}}
+        {{- range .Site.Taxonomies.tags.ByCount -}}
+          {{- if lt $counter $.Site.Params.tagcloud_limits -}}
+            {{- $level := 1 -}}
+            {{- if gt $max 1 -}}
+              {{- $level = add 1 (div (mul 4 (sub .Count 1)) (sub $max 1)) -}}
+            {{- end -}}
+            <a
+              style="font-size: {{ add 10 (mul $level 2) }}px"
+              href="{{ .Page.RelPermalink }}"
+              aria-label="{{ i18n "tag" }}: {{ .Page.Title }}"
+              >{{ .Page.Title }}<sup style="opacity: 0.6; font-size: 0.7em"> {{ .Count }}</sup></a
+            >
+            {{- $counter = add $counter 1 -}}
+          {{- end -}}
+        {{- end -}}
+      </div>
+    </div>
+  </div>
+{{- end -}}

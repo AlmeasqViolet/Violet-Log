@@ -1,0 +1,1220 @@
+########################################
+# Basic Configuration
+########################################
+
+# main menu navigation
+# 图标用当前 icon_font（font_4552607_ex15nbittbh）里的码位：
+#   e632 house-chimney-solid（家）  e605 calendar（按日期归档）  e647 circle-info-solid（关于）
+# 留空则回退成主题默认的太极图标
+menu:
+  - name: home
+    url: ""
+    icon: e632
+  - name: archives
+    url: "archives"
+    icon: e605
+  - name: about
+    url: "about"
+    icon: e647
+  #- name: friend
+   # url: "friend"
+    #icon:
+
+# friend links
+friends:
+  shuffle: false  # whether to shuffle the friend links
+
+mainSections: ["post"]
+# 年，月，日及时间的格式化样式
+# Format style for year,month,date & time
+yearFormat: "2006"
+monthFormat: "2006-01"
+dateFormat: "2006-01-02"
+timeFormat: "2006-01-02 15:04:05"
+
+author: AlmeasqViolet
+email: almeasqviolet@outlook.com
+description: "使用邮件和我交流"
+#subtitle: "少女祈祷中..."
+subtitle:
+  typing:
+    enable: true
+    strings:
+      - "人には届けたい想いがあるのです。"
+      - "届かなくてもいい手紙なんてないのですよ。"
+    cursorChar: "|"   # 改为单个字符
+    typeSpeed: 100              # 打字速度（毫秒/字符） 
+    backSpeed: 50               # 删除速度（毫秒/字符）
+    backDelay: 2000             # 打完一句话后，等待时间
+    startDelay: 300             # 页面加载后，等待时间
+    loop: true                  # 是否循环播放
+    shuffle: true              # 是否随机输出句子
+    showCursor: true            # 是否显示闪烁的字符
+    #cursorChar: "|"             # 字符
+    smartBackspace: false       # 智能退格，只删除不同的部分
+    text: "少女祈祷中..."        # 当 typing.enable = false 时使用
+
+banner: "images/banner.webp"
+# You can also write it in the form of the following url
+# banner: "https://example.com"
+
+# If you want to use the srcset attribute, please enable it
+banner_srcset:
+  enable: false
+  srcset:
+    - src: "images/banner-600w.webp"
+      media: "(max-width: 479px)"
+    - src: "images/banner-800w.webp"
+      media: "(max-width: 799px)"
+    - src: "images/banner.webp"
+      media: "(min-width: 800px)"
+
+avatar: "avatar.webp"
+
+# Control the display of the post cover
+# If not set, the banner image will be displayed by default
+# Its priority is lower than the cover in the Front-matter
+cover: # https://example.com / false / rgb(255,117,117)
+
+# Control the display of the post toc
+# Its priority is lower than the toc in the Front-matter
+toc: true
+
+# Open Graph
+open_graph:
+  enable: true
+  options:
+    #twitter_card: <twitter:card>
+    #twitter_id: <twitter:creator>
+    #twitter_site: <twitter:site>
+    #twitter_image: <twitter:image>
+    #google_plus: <g+:profile_link>
+    #fb_admins: <fb:admin_id>
+    #fb_app_id: <fb:app_id>
+
+# Content
+excerpt_link: Read More
+
+# Footer copyright
+# Inject code snippet right in the footer copyright
+# Make sure your code snippet is safeHTML
+copyright:
+# Need help choosing? Please see...
+# https://creativecommons.org/choose/
+# https://choosealicense.com/
+# copyright: |-
+#   <div style="flex-direction:column;align-items: center;"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+#   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></div>
+
+footer:
+  since: 2025 # 2025-current year
+  powered: true
+  count: true
+  busuanzi: true
+  icon:
+    url: "../images/footer-sep.svg" # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
+    rotate: false
+    mask: true # whether to use the images as a mask
+
+# Sidebar
+# sidebar: right # deprecated, use sidebar.position instead
+sidebar:
+  position: right
+  menu: true  # whether to show the sidebar menu button, ignored on mobile devices
+  article:
+    show_common: true # whether to show common sidebar, ignored on mobile devices
+
+social:
+  email: mailto:almeasqviolet@outlook.com
+  # github: https://github.com/yourname
+  # google: https://plus.google.com/yourname
+  # twitter: https://twitter.com/yourname
+  # bluesky: https://bsky.app/profile/yourname
+  # facebook: https://www.facebook.com/yourname
+  # instagram: https://www.instagram.com/yourname
+  # linkedin: https://www.linkedin.com/in/yourname
+  # pinterest: https://www.pinterest.com/yourname
+  # youtube: https://www.youtube.com/channel/yourname
+  # vimeo: https://vimeo.com/yourname
+  # flickr: https://www.flickr.com/photos/yourname
+  # dribbble: https://dribbble.com/yourname
+  # behance: https://www.behance.net/yourname
+  # bilibili: https://space.bilibili.com/yourname
+  # weibo: https://weibo.com/yourname
+  # zhihu: https://www.zhihu.com/people/yourname
+  # reddit: https://www.reddit.com/user/yourname
+  # tumblr: https://yourname.tumblr.com
+  # medium: https://medium.com/@yourname
+  # deviantart: https://yourname.deviantart.com
+  # stackoverflow: https://stackoverflow.com/users/yourname
+  # keybase: https://keybase.io/yourname
+  # telegram: https://t.me/yourname
+  # discord: https://discordapp.com/users/yourname
+  # steam: https://steamcommunity.com/id/yourname
+  # weixin: 
+  # qq:
+  # tiktok:
+
+widgets:
+  - category
+  - tag
+  - tagcloud
+  - recent_posts
+
+# Widget behavior
+category_limits: 10
+tag_limits: 10
+recent_posts_limits: 5
+tagcloud_limits: 20
+
+# Archive behavior
+only_show_capsule_in_index: false # If you have hugo amounts of tags and categories, you can set this to true to only show the capsule in the index page for better performance
+uppercase_capsule: true # If you want to keep taxonomic capsule unchanged, please set this to false
+
+show_update_time: false # If you want to show the update time, please set this to true
+
+# Summary content
+summary:
+  enable: false
+  style: 'subtitle' # 'subtitle' or 'blockquote'
+
+# RSS output
+rss:
+  limit: 10             # The number of recent articles to be output, write -1 to output all
+  showFullContent: false # output full content or description
+  showCopyright: false   # If true, add copyright to the end of article.
+
+# Sort order configuration
+# Available values: default, date, date-reverse, weight, weight-reverse
+# default: hugo's default sort order for page collections, see https://gohugo.io/quick-reference/page-collections/#sort
+# date: sorted by date in ascending order (oldest first)
+# date-reverse: sorted by date in descending order (newest first)
+# weight: sorted by weight in ascending order
+# weight-reverse: sorted by weight in descending order
+sort_order:
+  taxonomy:
+    category: date-reverse # controlled by categories_weight
+    tag: date-reverse # controlled by tags_weight
+  archive: date-reverse # controlled by weight
+  home: default # controlled by weight
+
+# Pagination
+paginate:
+  archive: 20 # Number of posts per page in archive and taxonomy pages
+  post: # Number of posts per page in home and other list pages
+
+########################################
+# CSS
+########################################
+
+layout:
+  max_width: 1350px # the max width of the main content area
+
+triangle_badge:
+  enable: false
+  icon: github # same as the icon in the social config
+  link: https://github.com/D-Sketon/hugo-theme-reimu
+
+anchor_icon: # default use '#' icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1', you can also use false to hide anchor icon
+
+reimu_cursor:
+  enable: false
+  cursor:
+    default: ../images/cursor/reimu-cursor-default.png  # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
+    pointer: ../images/cursor/reimu-cursor-pointer.png
+    text: ../images/cursor/reimu-cursor-text.png
+
+icon_font: 4552607_ex15nbittbh
+
+# Font loading strategy
+# Custom Font -> Google Fonts -> Local FallBack Font
+
+# Custom Font
+custom_font:
+  enable: false
+  article:
+    # - css: https://fontsapi.zeoseven.com/292/main/result.css # font css
+    #   name: LXGW WenKai # font name
+  code:
+
+# https://fonts.google.com/
+# Google Fonts, higher priority than local_font
+font:
+  enable: true
+  article:
+    - Mulish
+    - Noto Serif SC
+  code:
+    # - Ubuntu Mono
+    # - Source Code Pro
+    # - JetBrains Mono
+
+# Local FallBack Font
+local_font:
+  article:
+    - "-apple-system"
+    - PingFang SC
+    - Microsoft YaHei
+    - sans-serif
+  code:
+    - Menlo
+    - Monaco
+    - Consolas
+    - monospace
+
+dark_mode:
+  # true means that the dark mode toggle button is shown
+  # false means that the dark mode toggle button is hidden
+  button: true # true | false
+  # true means that the dark mode is enabled by default
+  # false means that the dark mode is disabled by default
+  # auto means that the dark mode is automatically switched according to the system settings
+  type: auto # true | false | auto
+
+########################################
+# Analytics
+########################################
+
+baidu_analytics: false
+google_analytics: false
+clarity: false
+
+########################################
+# Markdown Display
+########################################
+
+# mermaid url https://github.com/mermaid-js/mermaid
+mermaid:
+  zoom: false # whether to enable zoom for mermaid diagrams
+
+code_block:
+  # whether to expand the code block by default
+  # true means expand all code blocks by default
+  # false means collapse all code blocks by default
+  # number means collapse the code block by default when the number of lines exceeds the specified value
+  expand: false
+
+# Clipboard configuration
+clipboard:
+  success: 
+    en: Copy successfully (*^▽^*)
+    zh-CN: 复制成功 (*^▽^*)
+    zh-TW: 複製成功 (*^▽^*)
+    ja: コピー成功 (*^▽^*)
+    pt-BR: Copiado com sucesso (*^▽^*)
+  fail: 
+    en: Copy failed (ﾟ⊿ﾟ)ﾂ
+    zh-CN: 复制失败 (ﾟ⊿ﾟ)ﾂ
+    zh-TW: 複製失敗 (ﾟ⊿ﾟ)ﾂ
+    ja: コピー失敗 (ﾟ⊿ﾟ)ﾂ
+    pt-BR: Falha ao copiar (ﾟ⊿ﾟ)ﾂ
+  copyright:
+    enable: false
+    count: 50 # The number of characters when the copyright is displayed
+    license_type: by-nc-sa # https://creativecommons.org/licenses
+
+math:
+  katex:
+    enable: true
+  mathjax:
+    enable: false
+    options: # see https://docs.mathjax.org/en/latest/web/configuration.html
+    # we need to put the configuration in an array, because hugo will automatically convert the key to lowercase
+      [
+        {
+          tex:
+            {
+              tags: "ams",
+              useLabelIds: true,
+              inlineMath: [["$", "$"], ['\\(', '\\)']],
+              displayMath: [["$$", "$$"], ['\\[', '\\]']],
+              processEscapes: true,
+              processEnvironments: true,
+              autoload: { color: [], colorv2: ["color"] },
+              packages: { "[+]": ["noerrors"] },
+            },
+          options:
+            {
+              skipHtmlTags:
+                ["script", "noscript", "style", "textarea", "pre", "code"],
+              ignoreHtmlClass: "tex2jax_ignore",
+              processHtmlClass: "tex2jax_process",
+            },
+          loader: { load: ["input/asciimath", "[tex]/noerrors"] },
+        },
+      ]
+
+# Paragraph anchor
+# Injects linkable anchor icons into paragraphs and list items in article body
+# Usage: write {#anchor-xxx} in Markdown; the matching element gets id="anchor-xxx" and an anchor icon
+anchor:
+  # Explicit anchors
+  explicit:
+    # Whether to enable explicit anchors: parse {#anchor-xxx} syntax in Markdown (default false)
+    enable: false
+    # Anchor placeholder: the pattern used to match explicit anchors (no need to change unless it conflicts with article content)
+    marker: "{#anchor-"
+    # Anchor id prefix: generated id = prefix + the xxx part inside the marker (default "anchor-")
+    prefix: "anchor-"
+  # Auto anchors
+  auto:
+    # Whether to enable auto anchors: automatically generate ids for direct child paragraphs, derived from text content (default false)
+    enable: false
+    # Maximum length of auto-generated anchor ids; longer ids will be truncated (only effective when auto.enable = true)
+    length: 60
+
+########################################
+# Comment system
+########################################
+
+# global control of the comment system
+# you can use multiple comment systems at the same time
+# load order: localStorage(user manually selects) -> default
+# -> valine -> waline -> twikoo -> gitalk -> giscus -> utterances -> beaudar -> disqus
+comment:
+  # comment system title
+  title:
+    en: Leave a comment
+    zh-CN: 评论区
+    zh-TW: 說些什麼吧！
+    ja: コメントを残す
+    pt-BR: Deixe um comentário
+  default: giscus # default comment system, when you enable multiple comment systems
+
+# valine comment system. https://valine.js.org
+# version 1.5.1
+# notify and verify have been deprecated
+valine:
+  enable: false # if you want to use valine,please set this value is true
+  appId: # leancloud application app id
+  appKey: # leancloud application app key
+  pageSize: 10 # comment list page size
+  avatar: mp # gravatar style https://valine.js.org/#/avatar
+  # lang: zh-cn # deprecated, use html.lang instead
+  placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
+  guest_info: nick,mail,link #valine comment header info
+  recordIP: true # whether to record the IP address of the commenters
+  highlight: true # whether to highlight the code blocks
+  visitor: false # whether to display the number of visitors
+  serverURLs: # leancloud server url
+
+# https://waline.js.org/
+waline:
+  enable: false
+  serverURL:
+  # lang: zh-CN # deprecated, use html.lang instead
+  locale: {} # https://waline.js.org/guide/features/i18n.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80
+  emoji:
+    - https://unpkg.com/@waline/emojis@1.2.0/weibo
+    - https://unpkg.com/@waline/emojis@1.2.0/alus
+    - https://unpkg.com/@waline/emojis@1.2.0/bilibili
+    - https://unpkg.com/@waline/emojis@1.2.0/qq
+    - https://unpkg.com/@waline/emojis@1.2.0/tieba
+    - https://unpkg.com/@waline/emojis@1.2.0/tw-emoji
+  meta:
+    - nick
+    - mail
+    - link
+  requiredMeta:
+    - nick
+    - mail
+  wordLimit: 0
+  pageSize: 10
+  pageview: true
+
+# https://twikoo.js.org
+twikoo:
+  enable: false
+  envId: # 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
+  region:
+
+# https://github.com/gitalk/gitalk/blob/master/readme-cn.md
+gitalk:
+  enable: false
+  clientID:
+  clientSecret:
+  repo:
+  owner:
+  admin:
+  md5: false
+
+# https://giscus.app/zh-CN
+giscus:
+  enable: true
+  repo: AlmeasqViolet/Log-Comments
+  repoId: R_kgDOUf48gg
+  category: Announcements
+  categoryId: DIC_kwDOUf48gs4DF3lD
+  mapping: pathname
+  strict: 0
+  reactionsEnabled: 1
+  emitMetadata: 0
+  inputPosition: bottom
+  theme:
+    light: light
+    dark: dark_dimmed
+
+
+# https://disqus.com
+disqus:
+  enable: false
+  shortname: # your disqus shortname
+  count: true
+
+# https://utteranc.es
+utterances:
+  enable: false
+  repo: owner/repo # Change this to "Your GitHub Username/The Repository Name" used for storing blog comments
+  issue_term: title
+  theme: auto # auto means to automatically adapt to dark and light themes, you can also use specific themes like github-light, github-dark, preferred-color-scheme, etc.
+
+# https://beaudar.lipk.org/
+beaudar:
+  enable: false
+  repo: owner/repo # Change this to "Your GitHub Username/The Repository Name" used for storing blog comments
+  branch: main # The branch name, default is main
+  issue_term: title # The term to be used to create issues for comments, support pathname, url, title, og:title
+  issue_number:
+  theme: auto # auto means to automatically adapt to dark and light themes, you can also use specific themes like github-light, github-dark, preferred-color-scheme, etc.
+  label:
+  input_position: top # top/bottom, comment input position, default is top
+  comment_order: desc # asc/desc, comment order, asc displays the oldest comments first, while desc displays the newest comments first. The default is desc
+  keep_theme: # true/false, save the theme settings to sessionStorage, default is true
+  loading: # true/false, jump to official website when clicking the loading icon, default is true
+
+########################################
+# Search
+########################################
+# Search runs entirely in the browser (assets/js/algolia_search.ts).
+# `enable` only switches the popup / header button / styles on.
+# The index is Hugo's own algolia.json output (title + plain text of every
+# post), fetched on first use, so no Algolia account or key is required.
+algolia_search:
+  enable: true
+  appID:
+  apiKey:
+  indexName:
+  hits:
+    per_page: 10
+
+########################################
+# Animation
+########################################
+
+preloader:
+  enable: false
+  text: 
+    zh-CN: 少女祈祷中...
+    zh-TW: 少女祈禱中...
+    en: Loading...
+    ja: 少女祈祷中...
+    pt-BR: Carregando...
+  icon: #"images/small.png"
+  rotate: true # whether to rotate the icon
+
+# see https://github.com/D-Sketon/aos.js
+animation:
+  enable: true
+  options:
+    header:
+      title: slide-up
+      subTitle: slide-down
+    home:
+      post: fade-up
+      widget: fade-up
+      sidebar: fade-up
+    article:
+      whole: fade-up
+      date: zoom-in
+      category: zoom-in
+      tag: zoom-in
+      comment: zoom-in
+      reading: zoom-in
+      nav: fade-up
+    archive:
+      whole: fade-up
+      tag: zoom-in
+      category: zoom-in
+      section: fade-up
+      nav: fade-up
+
+# see https://github.com/D-Sketon/mouse-firework
+firework:
+  enable: true
+  disable_on_mobile: false
+  options:
+    excludeElements: ["a", "button"]
+    particles:
+      - shape: circle
+        move: ["emit"]
+        easing: easeOutExpo
+        colors: ["var(--red-1)", "var(--red-2)", "var(--red-3)", "var(--red-4)"]
+        number: 20
+        duration: [1200, 1800]
+        shapeOptions:
+          radius: [16, 32]
+          alpha: [0.3, 0.5]
+      - shape: circle
+        move: ["diffuse"]
+        easing: easeOutExpo
+        colors: ["var(--red-0)"]
+        number: 1
+        duration: [1200, 1800]
+        shapeOptions:
+          radius: 20
+          alpha: [0.2, 0.5]
+          lineWidth: 6
+
+########################################
+# Extended features
+########################################
+
+# show the copyright below each article
+article_copyright:
+  enable: false
+  content:
+    author: true
+    link: true
+    title: false
+    date: false
+    updated: false
+    license: true
+    license_type: by-nc-sa # https://creativecommons.org/licenses
+
+# Back To Top
+top:
+  enable: true
+  position: right # left or right
+  icon:
+    url: "../images/small.png" # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
+    rotate: true
+    mask: true # whether to use the images as a mask
+
+# whether to display the notification when the article is outdated
+outdate:
+  enable: false
+  daysAgo: 180 # The number of days after which the article is considered outdated
+  message:
+    en: This article was last updated on {time}. Please note that the content may no longer be applicable.
+    zh-CN: 本文最后更新于 {time}，请注意文中内容可能已不适用。
+    zh-TW: 本文最後更新於 {time}，請注意文中內容可能已不適用。
+    ja: この記事は最終更新日：{time}。記載内容が現在有効でない可能性がありますのでご注意ください。
+    pt-BR: Este artigo foi atualizado pela última vez em {time}. Observe que o conteúdo pode não ser mais aplicável.
+
+# ICP 备案
+icp:
+  icpnumber: # ICP备案号
+  beian: # 网安备案号
+  recordcode: # 网安备案链接中的recordcode参数
+
+# 萌国 ICP 备案
+moe_icp:
+  icpnumber: # 萌国ICP备案号
+
+# Sponsor
+sponsor:
+  enable: false
+  tip: 
+    zh-CN: 请作者喝杯咖啡吧
+    zh-TW: 請作者喝杯咖啡吧
+    en: Buy me a coffee
+    ja: コーヒーを買ってください
+    pt-BR: Compre-me um café
+  icon:
+    url: "../images/taichi.png" # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
+    rotate: true
+    mask: true # whether to use the images as a mask
+  qr:
+    # - name: 支付宝
+    #   src: "sponsor/alipay.jpg"
+    # - name: 微信
+    #   src: "sponsor/wechat.png"
+
+# Share
+share:
+  # - facebook
+  # - twitter
+  # - bluesky
+  # - linkedin
+  # - reddit
+  # - weibo
+  # - qq
+  # - weixin
+
+# show categories card on home page
+home_categories:
+  enable: false
+  content:
+    - categories: # string (single-layer category) or array (multi-layer category)
+      cover: # empty means random cover
+    - categories:
+      cover:
+
+########################################
+# Experimental features
+########################################
+
+# Inject code snippet
+# Make sure your code snippet is safeHTML
+injector:
+  head_begin: # Inject code snippet right after <head>
+  # 在 body 渲染前同步应用暗色主题，避免整页刷新时先闪一下白底
+  # （主题自带的 main.ts 在页面底部才执行，首帧来不及）
+  head_end: |
+    <script>
+      (function () {
+        try {
+          var stored = localStorage.getItem("dark_mode");
+          var fallback = document.documentElement.getAttribute("data-theme-mode") || "auto";
+          var mode = stored || fallback;
+          var osDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+          var isDark = mode === "true" || (mode === "auto" && osDark);
+          if (isDark) {
+            document.documentElement.setAttribute("data-theme", "dark");
+            document.documentElement.style.colorScheme = "dark";
+          } else {
+            document.documentElement.style.colorScheme = "light";
+          }
+          document.addEventListener("DOMContentLoaded", function () {
+            document.body.addEventListener("reimu:theme-set", function (e) {
+              var dark = e.detail && e.detail.isDark;
+              document.documentElement.style.colorScheme = dark ? "dark" : "light";
+            });
+            var sub = document.getElementById("sub-nav");
+            if (sub && !document.getElementById("nav-header-toggle")) {
+              var toggle = document.createElement("a");
+              toggle.id = "nav-header-toggle";
+              toggle.setAttribute("role", "button");
+              toggle.title = "Hide header";
+              toggle.setAttribute("aria-label", "Hide header");
+              document.body.appendChild(toggle);
+              var alignToggle = function () {
+                var nav = document.getElementById("header-nav");
+                if (!nav) return;
+                var h = nav.offsetHeight;
+                if (!h) return;
+                toggle.style.top = Math.round((h - toggle.offsetHeight) / 2) + "px";
+              };
+              alignToggle();
+              window.addEventListener("resize", alignToggle);
+              var setCollapsed = function (v) {
+                document.body.classList.toggle("header-collapsed", v);
+                toggle.title = v ? "Show header" : "Hide header";
+                toggle.setAttribute("aria-label", toggle.title);
+                try { localStorage.setItem("header_collapsed", v ? "1" : "0"); } catch (e) {}
+              };
+              try {
+                if (localStorage.getItem("header_collapsed") === "1") setCollapsed(true);
+              } catch (e) {}
+              toggle.addEventListener("click", function () {
+                setCollapsed(!document.body.classList.contains("header-collapsed"));
+              });
+              document.addEventListener("keydown", function (e) {
+                if (e.key === "Escape") setCollapsed(false);
+              });
+            }
+          });
+        } catch (e) {}
+      })();
+    </script>
+    <style>
+      /* 顶部导航图标：线性 SVG 通过 mask 上色，跟随主题色和 hover 变化
+         菜单顺序 home / archives / about 对应下面的 nth-of-type(1..3)
+         图标文件在 static/images/icons/，路径含站点子路径 /Violet-Log/
+         不支持 mask 的浏览器会保留原来的字体图标作为回退 */
+      @supports ((-webkit-mask-image: linear-gradient(#000, #000)) or (mask-image: linear-gradient(#000, #000))) {
+        #main-nav .main-nav-icon {
+          font-size: 0 !important;
+          width: 26px;
+          height: 26px;
+          padding: 14px 4px;
+          background: currentColor;
+          -webkit-mask-image: var(--nav-icon);
+          mask-image: var(--nav-icon);
+          -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
+          -webkit-mask-position: center;
+          mask-position: center;
+          -webkit-mask-size: 26px 26px;
+          mask-size: 26px 26px;
+        }
+        #main-nav .main-nav-link-wrap:nth-of-type(1) .main-nav-icon {
+          --nav-icon: url("/Violet-Log/images/icons/home.svg");
+        }
+        #main-nav .main-nav-link-wrap:nth-of-type(2) .main-nav-icon {
+          --nav-icon: url("/Violet-Log/images/icons/archive.svg");
+        }
+        #main-nav .main-nav-link-wrap:nth-of-type(3) .main-nav-icon {
+          --nav-icon: url("/Violet-Log/images/icons/info.svg");
+        }
+      }
+      /* 侧边栏统计项：Posts / Categories / Tags 都是链接，hover 时上浮+变色+下划线提示可点 */
+      .sidebar-state a {
+        text-decoration: none;
+        color: inherit;
+        transition: color 0.2s ease, transform 0.2s ease;
+      }
+      .sidebar-state a:hover,
+      .sidebar-state a:focus-visible {
+        color: var(--red-2);
+        transform: translateY(-2px);
+      }
+      /* 下划线用伪元素画，避免 text-decoration-skip-ink 在 g/y 这类字母下断开 */
+      .sidebar-state a > div:first-child {
+        position: relative;
+      }
+      .sidebar-state a > div:first-child::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: -3px;
+        height: 2px;
+        border-radius: 1px;
+        background: currentColor;
+        transform: scaleX(0);
+        transform-origin: center;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-state a:hover > div:first-child::after,
+      .sidebar-state a:focus-visible > div:first-child::after {
+        transform: scaleX(1);
+      }
+      .sidebar-state a:active {
+        transform: translateY(0) scale(0.97);
+      }
+      .sidebar-state a:focus-visible {
+        outline: 2px solid currentColor;
+        outline-offset: 4px;
+        border-radius: 4px;
+      }
+      /* 归档页标签/分类胶囊后的文章数 */
+      .archives-capsule-count {
+        margin-left: 5px;
+        font-size: 0.78em;
+        font-weight: 400;
+        opacity: 0.65;
+      }
+      /* 侧边栏小部件：与 Posts/Categories/Tags 统计项一致的 hover 效果
+         整行上浮 2px + 变色 + 从中间展开的 2px 下划线 */
+      .sidebar-widget .widget ul li {
+        padding-bottom: 3px;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-widget .widget ul li:hover {
+        transform: translateY(-2px);
+      }
+      .sidebar-widget .widget ul li > a,
+      .sidebar-widget .widget.tagcloud a {
+        position: relative;
+        transition: color 0.2s ease, transform 0.2s ease;
+      }
+      .sidebar-widget .widget ul li > a:hover,
+      .sidebar-widget .widget ul li > a:focus-visible,
+      .sidebar-widget .widget.tagcloud a:hover,
+      .sidebar-widget .widget.tagcloud a:focus-visible {
+        color: var(--red-2);
+      }
+      .sidebar-widget .widget ul li > a::after,
+      .sidebar-widget .widget.tagcloud a::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: -2px;
+        height: 2px;
+        border-radius: 1px;
+        background: currentColor;
+        transform: scaleX(0);
+        transform-origin: center;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-widget .widget ul li > a:hover::after,
+      .sidebar-widget .widget ul li > a:focus-visible::after,
+      .sidebar-widget .widget.tagcloud a:hover::after,
+      .sidebar-widget .widget.tagcloud a:focus-visible::after {
+        transform: scaleX(1);
+      }
+      .sidebar-widget .widget.tagcloud a:hover,
+      .sidebar-widget .widget.tagcloud a:focus-visible {
+        transform: translateY(-2px);
+      }
+      .sidebar-widget .widget-link:hover {
+        color: var(--red-2);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+      }
+      .sidebar-widget .widget a:focus-visible {
+        outline: 2px solid currentColor;
+        outline-offset: 3px;
+        border-radius: 3px;
+      }
+      /* 文章目录：与侧边栏小部件一致的 hover 效果 */
+      .sidebar-toc-wrapper li {
+        padding-bottom: 3px;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-toc-wrapper li:hover {
+        transform: translateY(-2px);
+      }
+      .sidebar-toc-wrapper a {
+        position: relative;
+        transition: color 0.2s ease, opacity 0.2s ease;
+      }
+      .sidebar-toc-wrapper a:hover,
+      .sidebar-toc-wrapper a:focus-visible {
+        color: var(--red-2);
+        opacity: 1;
+      }
+      .sidebar-toc-wrapper a::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: -2px;
+        height: 2px;
+        border-radius: 1px;
+        background: currentColor;
+        transform: scaleX(0);
+        transform-origin: center;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-toc-wrapper a:hover::after,
+      .sidebar-toc-wrapper a:focus-visible::after {
+        transform: scaleX(1);
+      }
+      .sidebar-toc-wrapper a:focus-visible {
+        outline: 2px solid currentColor;
+        outline-offset: 3px;
+        border-radius: 3px;
+      }
+      /* 顶栏常驻搜索框（替代原来的浮动搜索弹层） */
+      .site-search {
+        display: none !important;
+      }
+      /* 顶栏右侧图标顺序：RSS → 明暗切换 → 收起顶栏 → 搜索框 */
+      #sub-nav #nav-rss-link {
+        order: 1;
+      }
+      #sub-nav .dark-mode-btn {
+        order: 2;
+      }
+      #sub-nav .nav-search {
+        order: 4;
+      }
+      /* 顶栏右侧：用统一的 gap 控制间距，去掉图标各自的左右 padding */
+      #sub-nav {
+        gap: 16px;
+      }
+      #sub-nav .nav-icon {
+        padding-left: 0;
+        padding-right: 0;
+      }
+      .nav-search {
+        position: relative;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        margin: 0;
+      }
+      .nav-search-icon {
+        flex: 0 0 auto;
+        color: var(--red-0);
+        opacity: 0.8;
+        line-height: 1;
+        transition: opacity 0.2s ease;
+      }
+      .nav-search-icon::before {
+        content: "\e631";
+        font-family: "iconfont";
+        font-size: 15px;
+        font-weight: 400;
+        display: inline-block;
+      }
+      .nav-search:focus-within .nav-search-icon {
+        opacity: 1;
+      }
+      #nav-search-input {
+        width: 150px;
+        height: 30px;
+        padding: 0 12px;
+        border: 1px solid var(--color-h2-border);
+        border-radius: 15px;
+        background: var(--color-wrap);
+        color: var(--color-default);
+        font-size: 13px;
+        outline: none;
+        transition: width 0.2s ease, border-color 0.2s ease;
+      }
+      #nav-search-input:focus {
+        width: 190px;
+        border-color: var(--red-2);
+      }
+      #nav-search-input::placeholder {
+        color: var(--grey-7);
+      }
+      .nav-search-results {
+        position: absolute;
+        top: calc(100% + 10px);
+        right: 0;
+        width: 380px;
+        max-height: 60vh;
+        overflow: auto;
+        padding: 6px 0;
+        border-radius: 10px;
+        background: var(--color-wrap);
+        box-shadow: var(--shadow-card);
+        z-index: 500;
+      }
+      .nav-search-results[hidden] {
+        display: none;
+      }
+      .nav-search-stats {
+        padding: 6px 16px;
+        font-size: 12px;
+        color: var(--grey-7);
+      }
+      .nav-search-hit {
+        display: block;
+        padding: 8px 16px;
+        text-decoration: none;
+        color: var(--color-link);
+      }
+      .nav-search-hit:hover {
+        background: var(--red-5);
+      }
+      .nav-search-hit-title {
+        font-size: 14px;
+      }
+      .nav-search-hit-excerpt {
+        margin-top: 2px;
+        font-size: 12px;
+        line-height: 1.5;
+        opacity: 0.7;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .nav-search-hit-excerpt mark {
+        background: var(--red-1);
+        color: #fff;
+      }
+      .nav-search-empty {
+        padding: 12px 16px;
+        font-size: 13px;
+        color: var(--grey-7);
+      }
+      .nav-search-more-btn {
+        display: block;
+        margin: 6px auto 4px;
+        padding: 6px 16px;
+        border: none;
+        border-radius: 12px;
+        background: var(--red-1);
+        color: #fff;
+        font-size: 12px;
+        cursor: pointer;
+      }
+      .nav-search-more-btn:hover {
+        opacity: 0.85;
+      }
+      @media screen and (max-width: 767px) {
+        #nav-search-input {
+          width: 96px;
+        }
+        #nav-search-input:focus {
+          width: 130px;
+        }
+        .nav-search-results {
+          position: fixed;
+          top: 54px;
+          left: 12px;
+          right: 12px;
+          width: auto;
+        }
+      }
+      /* 关闭顶栏向下滚动自动隐藏：始终保持 top: 0 */
+      #header-nav.header-nav-hidden {
+        top: 0;
+      }
+      /* 顶栏开关：收起/展开共用一个固定在右侧边角的按钮 */
+      body.header-collapsed #header-nav {
+        top: -80px;
+      }
+      #nav-header-toggle {
+        position: fixed;
+        top: 16px;
+        right: 12px;
+        z-index: 300;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 34px;
+        height: 28px;
+        background: transparent;
+        color: var(--red-0);
+        opacity: 0.75;
+        cursor: pointer;
+        transition: opacity 0.2s ease, color 0.2s ease;
+      }
+      #nav-header-toggle:hover {
+        opacity: 1;
+        color: var(--red-2);
+      }
+      #nav-header-toggle::before {
+        content: "\e609";
+        font-family: "iconfont";
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1;
+        display: inline-block;
+        transform: rotate(180deg);
+        transition: transform 0.2s ease;
+      }
+      body.header-collapsed #nav-header-toggle::before {
+        transform: rotate(0deg);
+      }
+    </style>
+  body_begin: # Inject code snippet right after <body>
+  body_end: # Inject code snippet right before </body>
+  sidebar_begin: # Inject code snippet right after <aside>
+  sidebar_end: # Inject code snippet right before </aside>
+
+# Experimental, may have a lot of bugs, open with caution!
+pjax:
+  enable: false
+
+# Experimental
+# https://github.com/GoogleChromeLabs/quicklink
+quicklink:
+  enable: false
+  # The `requestIdleCallback` timeout, in milliseconds.
+  timeout: 3000
+  # Whether or not the URLs within the options.el container should be treated as high priority.
+  # When true, quicklink will attempt to use the fetch() API if supported (rather than link[rel=prefetch]).
+  priority: true
+  # Determine if a URL should be prefetched.
+  # Only support string
+  ignores: []
+
+# Experimental
+service_worker:
+  enable: false
+
+# Experimental
+live2d:
+  enable: false
+  position: left # left or right
+
+# Experimental
+live2d_widgets:
+  enable: false
+  position: left # left or right
+
+# https://github.com/CodeByZach/pace
+pace:
+  enable: true
+
+# Experimental
+# Please turn on pjax to use this feature
+player:
+  disable_on_mobile: false
+  position: before_sidebar # before_sidebar | after_sidebar | after_widget
+  # if you enable meting, you must enable aplayer first
+  aplayer:
+    # https://github.com/DIYgod/APlayer
+    enable: false
+    options:
+      audio: []
+      fixed: true
+      autoplay:
+      loop:
+      order:
+      preload:
+      volume:
+      mutex:
+      listFolded:
+      lrcType:
+  meting:
+    # https://github.com/metowolf/MetingJS
+    # if you want to use meting, please enable aplayer first
+    enable: false
+    meting_api: # custom api
+    options:
+      id: 2265921590
+      server: netease
+      type: playlist
+      auto:
+
+########################################
+# pangu.js
+########################################
+
+pangu:
+  # more information: https://github.com/vinta/pangu.js 
+  enable: false  # enable pangu.js to add space between Chinese and English
+
+########################################
+# Theme
+########################################
+
+# experimental, may have a lot of bugs, open with caution!
+# A dynamic color generation tool based on Google's Material You design guidelines, capable of extracting primary colors from any image and generating complete light and dark color schemes.
+material_theme:
+  # more information: https://github.com/2061360308/material-theme
+  # notice: when you enable this feature, all the covers will be automatically added "crossorigin" attribute to support the dynamic color scheme
+  # so make sure your custom covers will not be blocked by the browser's CORS policy
+  enable: false # enable material_theme to generate dynamic color schemes based on the banner image
+
+internal_theme:
+  light:
+    --red-0: '#9B7EC8'
+    --red-1: '#B095D6'
+    --red-2: '#C9B0E3'
+    --red-3: '#DEC9EE'
+    --red-4: '#EBDCF5'
+    --red-5: '#F4EBFA'
+    --red-5-5: '#F9F2FC'
+    --red-6: '#FCF8FE'
+    --color-red-6-shadow: 'rgba(155, 126, 200, 0.4)'
+    --color-red-3-shadow: 'rgba(155, 126, 200, 0.2)'
+    --highlight-nav: "#f0f0f0"
+    --highlight-scrollbar: "#d0d0d0"
+    --highlight-background: "#f8f8f8"
+    --highlight-selection: "#c0c0c0aa"
+    --highlight-foreground: "#1e1e1e"
+    --highlight-comment: "#6a737d"
+    --highlight-red: "#d73a49"
+    --highlight-orange: "#e36209"
+    --highlight-yellow: "#d19a66"
+    --highlight-green: "#22863a"
+    --highlight-aqua: "#005cc5"
+    --highlight-blue: "#032f62"
+    --highlight-purple: "#6f42c1"
+    --highlight-deletion: "#b31d28"
+    --highlight-deletion-bg: "#fceef3"
+    --highlight-addition: "#22863a"
+    --highlight-addition-bg: "#eef8f4"
+  dark:
+    --red-4: 'rgba(180, 155, 210, 0.5)'
+    --red-5: 'rgba(210, 185, 230, 0.15)'
+    --red-5-5: 'rgba(220, 200, 240, 0.05)'
+    --red-6: 'rgba(230, 210, 245, 0.2)'
+    --highlight-nav: "#2d2d2d"
+    --highlight-scrollbar: "#3d3d3d"
+    --highlight-background: "#1e1e1e"
+    --highlight-selection: "#404040aa"
+    --highlight-foreground: "#d4d4d4"
+    --highlight-comment: "#6a9955"
+    --highlight-red: "#f44747"
+    --highlight-orange: "#ce9178"
+    --highlight-yellow: "#d7ba7d"
+    --highlight-green: "#6a9955"
+    --highlight-aqua: "#4fc1ff"
+    --highlight-blue: "#569cd6"
+    --highlight-purple: "#c586c0"
+    --highlight-deletion: "#f44747"
+    --highlight-deletion-bg: "#3a1a22"
+    --highlight-addition: "#6a9955"
+    --highlight-addition-bg: "#1a2a22"

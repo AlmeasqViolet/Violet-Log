@@ -1,0 +1,24 @@
+{{- $items := . -}}
+{{- $name := index $items "name" -}}
+
+{{- /* Search is handled locally by Pagefind (see assets/js/algolia_search.ts),
+       so the Algolia client and InstantSearch bundles are never downloaded. */ -}}
+{{- if and (ne $name "algolia") (ne $name "instantsearch") -}}
+  {{- $ctx := index $items "ctx" -}}
+  {{- $js := hugo.Data.vendor.js -}}
+  {{- $vendor := index $js $name -}}
+
+  {{- $base := dict
+    "raw" $vendor
+    "src" (index (partial "helpers/vendorCdn.html" (dict "item" $vendor "ctx" $ctx.Site)) 0)
+    "integrity" (index (partial "helpers/vendorCdnIntegrity.html" (dict "item" $vendor)) 0)
+  -}}
+  {{- $extra := dict -}}
+  {{- range $key, $value := $items -}}
+    {{- if ne $key "name" -}}
+      {{- $extra = merge $extra (dict $key $value) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- partial "helpers/js.html" (merge $base $extra) -}}
+{{- end -}}

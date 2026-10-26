@@ -1,0 +1,31 @@
+{{- define "main" -}}
+  {{- /* 标签/分类总览：按文章数排序，字号随数量变化，并显示计数 */ -}}
+  {{- $plural := .Data.Plural -}}
+  {{- $terms := index .Site.Taxonomies $plural -}}
+  {{- $max := 1 -}}
+  {{- range $terms -}}
+    {{- if gt .Count $max -}}{{- $max = .Count -}}{{- end -}}
+  {{- end -}}
+  <div class="archives-outer-wrap">
+    <div class="tag-wrap" style="padding: 24px 36px 28px">
+      {{- range $terms.ByCount -}}
+        {{- $level := 1 -}}
+        {{- if gt $max 1 -}}
+          {{- $level = add 1 (div (mul 4 (sub .Count 1)) (sub $max 1)) -}}
+        {{- end -}}
+        {{- $size := index (slice "0.95em" "1.05em" "1.15em" "1.3em" "1.45em") (sub $level 1) -}}
+        <div class="archives-tag-list-item" style="text-transform: none">
+          <a
+            class="archives-tag-list-link"
+            href="{{ .Page.RelPermalink }}"
+            style="font-size: {{ $size }}"
+            title="{{ .Page.Title }} · {{ .Count }} 篇"
+            >{{ .Page.Title }}<span style="opacity: 0.55; margin-left: 0.45em; font-size: 0.8em"
+              >{{ .Count }}</span
+            ></a
+          >
+        </div>
+      {{- end -}}
+    </div>
+  </div>
+{{- end -}}
