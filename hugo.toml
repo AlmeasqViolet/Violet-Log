@@ -30,8 +30,12 @@ delimiters.inline = [["\\(", "\\)"], ["$", "$"]]
 guessSyntax = true
 noClasses = false
 
+# 顺序有意义：Hugo 的 .Permalink 取的是排在第一位的 output format。
+# 首页的 RSS 模板里 <channel><link> 用的就是它，必须落在 HTML 上，
+# 否则 feed 里的站点地址会变成 /algolia.json，RSS 阅读器拿它去发现站点图标会全部失败
+# （Thunderbird 于是只显示默认图标）。
 [outputs]
-home = ["Algolia", "HTML", "RSS"]
+home = ["HTML", "Algolia", "RSS"]
 
 [outputFormats.Algolia]
 baseName = "algolia"
