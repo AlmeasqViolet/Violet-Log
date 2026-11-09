@@ -2,6 +2,7 @@ baseURL = "https://almeasqviolet.github.io/Violet-Log/"
 languageCode = 'en'
 title = "Violet's Log"
 theme = 'hugo-theme-reimu'
+timeZone = 'Asia/Shanghai'
 
 defaultContentLanguage = 'en'
 [languages]
