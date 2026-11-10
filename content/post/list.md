@@ -126,7 +126,7 @@ categories:
    ├ るろうに剣心 -明治剣客浪漫譚- 新作 [TV Series | 2023 | 47/S2 | Finx1.5]
 41. BLEACH [TV Series | 2004 | A]
    ├ BLEACH [TV Series | 2004 | 366 | Fin]
-   ├ BLEACH 千年血戦篇[TV Series | 2022 | 50/S4 | 41/S04E01]
+   ├ BLEACH 千年血戦篇 [TV Series | 2022 | 50/S4 | 41/S04E01]
    ├ 劇場版 BLEACH MEMORIES OF NOBODY [Movie | 2006 | 1 | Fin]
    ├ 劇場版 BLEACH もう一つの氷輪丸 [Movie | 2007 | 1 | Fin]
    ├ 劇場版 BLEACH 君の名を呼ぶ [Movie | 2008 | 1 | Fin]
@@ -558,6 +558,7 @@ categories:
 252. 新世界より [TV Series | 2012 | 25 | 2 | B]
 253. おにいさまへ… [TV Series | 1991 | 39 | Fin | A]
 254. 残響のテロル [TV Series | 2014 | 12 | 6 | C]
+255. Baccano! [TV Series | 2007 | 16 | Fin | A]
 ```
 ## Comic
 ```text
